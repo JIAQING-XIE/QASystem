@@ -1,0 +1,869 @@
+[
+    {
+        "dialogue": 63365,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "285314",
+                "speaker": "183974",
+                "utt": "Thank you @115714 you have been over charging me for months on my phone bill #timetoswitch",
+                "time": "Fri Oct 06 13:50:24 +0000 2017",
+                "state": {
+                    "intent": [
+                        "report problem"
+                    ],
+                    "requested_slots": [
+
+                    ],
+                    "slot_values": {
+                        "object" : [
+                            "phone bill"
+                        ],
+                        "problem": [
+                            "over charging"
+                        ],
+                        "duration": [
+                            "months"
+                        ]
+                    }
+                }
+            },
+            {
+                "tweet_id": "285313",
+                "speaker": "sprintcare",
+                "utt": "@183974 I definitely dont want that to happen again. I can look into this for you? message DM us.",
+                "time": "Fri Oct 06 13:53:34 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 179846,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "751237",
+                "speaker": "299558",
+                "utt": "@115911 service is down on the Westside of Los Angeles.",
+                "time": "Sat Oct 07 03:07:26 +0000 2017",
+                "state": {
+                    "intent": [
+                        "system problem"
+                    ],
+                    "requested_slots": [
+
+                    ],
+                    "slot_values": {
+                        "problem": [
+                            "service is down"
+                        ],
+                        "location": [
+                            "Westside of Los Angeles"
+                        ]
+                    }
+                }
+            },
+            {
+                "tweet_id": "751236",
+                "speaker": "TMobileHelp",
+                "utt": "\"@299558 let us take a closer look to see what is happening in that area, Michael. Send us a DM! *RickK\"",
+                "time": "Sat Oct 07 03:09:08 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 191383,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "799333",
+                "speaker": "310533",
+                "utt": "I am so angry w @115955 ..I used a router from a thrift store the entire time I had internet w them. they are trying to say I owe them 1",
+                "time": "Mon Oct 16 14:14:53 +0000 2017",
+                "state": {
+                    "intent": [
+                        "report problem"
+                    ],
+                    "requested_slots": [
+
+                    ],
+                    "slot_values": {
+                        "problem": [
+                            "I owe them 1"
+                        ],
+                        "object": [
+                            "router"
+                        ],
+                        "server": [
+                            "thrift store"
+                        ]
+                        
+
+                    }
+                }
+            },
+            {
+                "tweet_id": "799330",
+                "speaker": "Ask_Spectrum",
+                "utt": "@310533 My apologies for your experience with us. I would be more than happy to take a look at the account at this time. ...",
+                "time": "Mon Oct 16 16:33:27 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 253522,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1052039",
+                "speaker": "368619",
+                "utt": "@TMobileHelp I have the iPhone 8 on Verizon can I switch to T ? And you guys pay off my phone ?",
+                "time": "Fri Oct 13 02:15:18 +0000 2017",
+                "state": {
+                    "intent": [
+                        "phone switch" 
+                    ],
+                    "requested_slots": [
+                        "switch to T"
+                    ],
+                    "slot_values": {
+                        "requested_phone": [
+                            "T"
+                        ],
+                        "current_phone": [
+                            "iPhone 8 on Verizon"
+                        ] ,
+                        "form":  [
+                            "pay off"
+                        ]
+                    }
+                }
+            },
+            {
+                "tweet_id": "1052038",
+                "speaker": "TMobileHelp",
+                "utt": "@368619 This is right up my alley, shoot me a quick message DM and I will jump on this right away! *TreBrewbaker",
+                "time": "Fri Oct 13 02:21:34 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 265067,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "1098215",
+                "speaker": "379151",
+                "utt": "Going back to Wow Cable. Had to pay extra to get these channels in the first place. @115955 Thankfully kept @116602.",
+                "time": "Fri Oct 13 20:58:01 +0000 2017",
+                "state": {
+                    "intent": [
+                        "report problem"
+                    ],
+                    "requested_slots": [
+
+                    ],
+                    "slot_values": {
+                        "server": [
+                            "Wow Cable"
+                        ],
+                        "problem": [
+                            "pay extra to get these channels "
+                        ]
+
+                    }
+                }
+            },
+            {
+                "tweet_id": "1098214",
+                "speaker": "Ask_Spectrum",
+                "utt": "@379151 Spectrum is currently working with Viacom to reach an agreement that is fair for everyone.",
+                "time": "Fri Oct 13 22:00:43 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 266087,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1102181",
+                "speaker": "380074",
+                "utt": "@115913 listen Mr. CEO, can you get me an extra special good deal on an iphone? Or are those not heard of?",
+                "time": "Mon Oct 23 23:09:31 +0000 2017",
+                "state": {
+                    "intent": [
+                        "query"
+                    ],
+                    "requested_slots": [
+                        "an extra special good deal on an iphone"
+                    ],
+                    "slot_values": {
+                        "request": [
+                            "an extra special good deal"
+                        ],
+                        "product": [
+                            "iphone"
+                        ]
+                    }
+                }
+            },
+            {
+                "tweet_id": "1102180",
+                "speaker": "TMobileHelp",
+                "utt": "@380074 @115913 Hey! Check out all of our deals here: and message DM us if you have questions! *AlissaFast",
+                "time": "Mon Oct 23 23:11:03 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 291421,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1204164",
+                "speaker": "402873",
+                "utt": "Im getting at least 3 scam calls a day help @TMobileHelp!",
+                "time": "Sun Oct 15 22:19:39 +0000 2017",
+                "state": {
+                    "intent": [
+                        "complain"
+                    ],
+                    "requested_slots": [
+
+                    ],
+                    "slot_values": {
+                        "call type": [
+                            "scam"
+                        ],
+                        "frequency": [
+                            "at least 3 scam calls a day"
+                        ]
+                        
+                    }
+                }
+            },
+            {
+                "tweet_id": "1204163",
+                "speaker": "TMobileHelp",
+                "utt": "@402873 Oh, no! Spam calls are no good! Send us a message DM and give us some details. *JonPorter",
+                "time": "Sun Oct 15 22:20:30 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 316269,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1303876",
+                "speaker": "379338",
+                "utt": "@TMobileHelp how do I preorder iPhone X tonight? Help!",
+                "time": "Fri Oct 27 01:18:40 +0000 2017",
+                "state": {
+                    "intent": [
+                        "query"
+                    ],
+                    "requested_slots": [
+                        "preorder iPhone X"
+                    ],
+                    "slot_values": {
+                        "product": [
+                            "iPhone X"
+                        ],
+                        "time": [
+                            "tonight"
+                        ]
+                    }
+                }
+            },
+            {
+                "tweet_id": "1303875",
+                "speaker": "TMobileHelp",
+                "utt": "@379338 Hey there! That is a good question. You can do it through out app or at our website if you wish. :) *KateyArnett",
+                "time": "Fri Oct 27 01:23:18 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 333809,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "1376152",
+                "speaker": "440356",
+                "utt": "When youve been stuck waiting in a sprint store for forty five minutes so far... @115714",
+                "time": "Sat Oct 28 01:59:47 +0000 2017",
+                "state": {
+                    "intent": [
+                        "report problem"
+                    ],
+                    "requested_slots": [
+
+                    ],
+                    "slot_values": {
+                        "problem": [
+                            "been stuck waiting in a sprint store"
+                        ],
+
+                        "duration": [
+                            "forty five minutes"
+                        ]
+                    }
+                }
+            },
+            {
+                "tweet_id": "1376147",
+                "speaker": "sprintcare",
+                "utt": "@440356 Did you have a Technician check out your device?",
+                "time": "Sat Oct 28 02:03:59 +0000 2017"
+            },
+            {
+                "tweet_id": "1376148",
+                "speaker": "440356",
+                "utt": "@sprintcare Update: just now checked in",
+                "time": "Sat Oct 28 02:07:19 +0000 2017",
+                "state": {
+                    "intent": [
+                        "problem solved"
+                    ],
+                    "requested_slots": [
+                    
+                    ],
+                    "slot_values": {
+                        "situation": [
+                            "checked in"
+                        ]
+                    }
+                }
+            },
+            {
+                "tweet_id": "1376151",
+                "speaker": "sprintcare",
+                "utt": "@440356 For future store visits you can schedule an appointment by utilizing our Store locator tool online ( ).",
+                "time": "Sat Oct 28 02:11:12 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 354892,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "1460007",
+                "speaker": "458880",
+                "utt": "@Ask_Spectrum Is service back up in running in the 75019 zip code? If not, I think I might just have to cancel my service.",
+                "time": "Thu Nov 02 20:01:58 +0000 2017",
+                "state": {
+                    "intent": [
+                        "query"
+                    ],
+                    "requested_slots": [
+                        "service back up in running"
+                    ],
+                    "slot_values": {
+                        "location": [
+                            "75019"
+                        ]
+
+                    }
+                }
+            },
+            {
+                "tweet_id": "1460006",
+                "speaker": "Ask_Spectrum",
+                "utt": "@458880 I apologize for any issues please message DM us your account number or phone number so we can assist you.",
+                "time": "Thu Nov 02 21:01:02 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 463883,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "1862192",
+                "speaker": "553887",
+                "utt": "@5335 I am in la and ur Wi has been on and off for two days what the heck?????",
+                "time": "Thu Oct 19 18:02:44 +0000 2017",
+                "state": {
+                    "intent": [
+                        "report problem"
+                    ],
+                    "requested_slots": [
+
+                    ],
+                    "slot_values": {
+                        "problem": [
+                            "Wi has been on and off"
+                        ],
+                        "location": [
+                            "la"
+                        ],
+                        "duration": [
+                            "two days"
+                        ]
+                    }
+                }
+            },
+            {
+                "tweet_id": "1862191",
+                "speaker": "Ask_Spectrum",
+                "utt": "@553887 Thank you for reaching out. I am sorry your WIFI service is down. Can you please message DM the account number or the pho...",
+                "time": "Thu Oct 19 18:14:01 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 464013,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "1862742",
+                "speaker": "286724",
+                "utt": "Since I now have to reboot my cable modem daily, can you suggest a DOCSIS 3 modem that allows remote access/reboot @Ask_Spectrum?",
+                "time": "Fri Oct 20 10:52:32 +0000 2017",
+                "state": {
+                    "intent": [
+                        "query"
+                    ],
+                    "requested_slots": [
+                        "a DOCSIS 3 modem"
+                    ],
+                    "slot_values": {
+                        "problem": [
+                            "reboot cable modem daily"
+                        ],
+                        "product": [
+                            "DOCSIS 3 modem"
+                        ],
+                        "product function": [
+                            "remote access/reboot"
+                        ]
+                    }
+                }
+            },
+            {
+                "tweet_id": "1862740",
+                "speaker": "Ask_Spectrum",
+                "utt": "@286724 I am sorry for the poor experience. Can you please DM/PM the full service address and name on the account, as we ...",
+                "time": "Fri Oct 20 10:54:23 +0000 2017"
+            },
+            {
+                "tweet_id": "1862741",
+                "speaker": "286724",
+                "utt": "\"@Ask_Spectrum we have done this for months. Years even. New wiring. MANY techs. Since you cannot provide consistency I need a modem I can reboot remotely.\"",
+                "time": "Fri Oct 20 10:55:34 +0000 2017",
+                "state": {
+                    "intent": [
+                        "complain"
+                    ],
+                    "requested_slots": [
+
+                    ],
+                    "slot_values": {
+                        "problem": [
+                            "can not provide consistency"
+                        ],
+                        "product": [
+                            "modem"
+                        ],
+                        "product function": [
+                            "reboot remotely"
+                        ]
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "dialogue": 472293,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "1889635",
+                "speaker": "416868",
+                "utt": "Spot on! @Ask_Spectrum This better be on tv in the Louisville Kentucky area",
+                "time": "Sun Oct 22 15:08:41 +0000 2017",
+                "state": {
+                    "intent": [
+                        "query"
+                    ],
+                    "requested_slots": [
+                        "on tv in the Louisville Kentucky area"
+                    ],
+                    "slot_values": {
+                        "location": [
+                            "Louisville Kentucky"
+                        ]
+                    }
+                }
+            },
+            {
+                "tweet_id": "1889634",
+                "speaker": "Ask_Spectrum",
+                "utt": "@416868 If you use the search funtion on your remote and search by either \"Carolina\" or \"Chicago\", it should help narrow your search, Chad.",
+                "time": "Sun Oct 22 15:21:35 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 567014,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "2198001",
+                "speaker": "642934",
+                "utt": "@TMobileHelp why does scam likely keep calling me?",
+                "time": "Fri Nov 10 00:09:24 +0000 2017",
+                "state": {
+                    "intent": [
+                        "query"
+                    ],
+                    "requested_slots": [
+
+                    ],
+                    "slot_values": {
+                        "call type": [
+                            "scam"
+                        ]
+                    }
+                }
+            },
+            {
+                "tweet_id": "2198000",
+                "speaker": "TMobileHelp",
+                "utt": "@642934 Thank you for reaching out about this! Can you please message DM me via this link\\xa0 so we can talk? *JonathanMacInnes",
+                "time": "Fri Nov 10 00:14:05 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 617672,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "2372521",
+                "speaker": "684501",
+                "utt": "@Ask_Spectrum is there an outage in nyc 11106 right now?",
+                "time": "Tue Nov 14 00:34:50 +0000 2017",
+                "state": {
+                    "intent": [
+                        "report problem"
+                    ],
+                    "requested_slots": [
+
+                    ],
+                    "slot_values": {
+                        "problem": [
+                            "outage"
+                        ],
+                        "location": [
+                            "nyc 11106"
+                        ],
+                        "time": [
+                            "right now"
+                        ]
+                    }
+                }
+            },
+            {
+                "tweet_id": "2372519",
+                "speaker": "Ask_Spectrum",
+                "utt": "\"@684501 Good evening, I would be happy to look into any service issues you are having. Can you please send me your name and ad...",
+                "time": "Tue Nov 14 00:39:37 +0000 2017"
+            },
+            {
+                "tweet_id": "2372520",
+                "speaker": "684501",
+                "utt": "@Ask_Spectrum Kelly McCann address is 31 35th street Astoria NY 11106",
+                "time": "Tue Nov 14 01:04:44 +0000 2017",
+                "state": {
+                    "intent": [
+                        "reply"
+                    ],
+                    "requested_slots": [
+                        "name",
+                        "address"
+                    ],
+                    "slot_values": {
+                        "name":[
+                            "Kelly McCann"
+                        ],
+                        "address": [
+                            "31 35th street Astoria NY 11106"
+                        ]
+                    }
+                }
+            },
+            {
+                "tweet_id": "2372522",
+                "speaker": "Ask_Spectrum",
+                "utt": "@684501 You can delete your last message as this is public. Can you please send me a DM?",
+                "time": "Tue Nov 14 01:18:11 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 635315,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "2435867",
+                "speaker": "698873",
+                "utt": "Cant wait to move out of this apt. And get rid of the crappiest internet/cable. I do not suggest it to anyone. @115955 is not worth it",
+                "time": "Sun Oct 29 14:33:47 +0000 2017",
+                "state": {
+                    "intent": [
+                        "complain"
+                    ],
+                    "requested_slots": [
+
+                    ],
+                    "slot_values": {
+                        "problem": [
+                            "crappiest internet/cable"
+                        ]
+                    }
+                }
+            },
+            {
+                "tweet_id": "2435866",
+                "speaker": "Ask_Spectrum",
+                "utt": "@698873 Good morning, could you private message me the service address and phone number so I can assist?",
+                "time": "Sun Oct 29 14:39:24 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 641270,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "2456708",
+                "speaker": "703714",
+                "utt": "@TMobileHelp my T Tuesday Panda coupon says it does not exist?",
+                "time": "Wed Nov 15 03:59:18 +0000 2017",
+                "state": {
+                    "intent": [
+                        "report problem"
+                    ],
+                    "requested_slots": [
+                    ],
+                    "slot_values": {
+                        "problem": [
+                            "Panda coupon says it does not exist"
+                        ],
+                        "time" : [
+                            "Tuesday"
+                        ],
+                        "product": [
+                            "T"
+                        ]
+                    }
+                }
+            },
+            {
+                "tweet_id": "2456707",
+                "speaker": "TMobileHelp",
+                "utt": "\"@703714 Yikes! We cannot have you miss out on your thanking! message DM us so we can dive into things! *MikePerez\"",
+                "time": "Wed Nov 15 04:22:00 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 653496,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "2500501",
+                "speaker": "225341",
+                "utt": "@Ask_Spectrum Interesting how everything I recorded on ID last night is completely muted....except YOUR commercials.",
+                "time": "Wed Nov 15 18:39:50 +0000 2017",
+                "state": {
+                    "intent": [
+                        "report problem"
+                    ],
+                    "requested_slots": [
+
+                    ],
+                    "slot_values": {
+                        "problem": [
+                            "recorded on ID is completely muted except YOUR commercials"
+                        ],
+                        "time": [
+                            "last night"
+                        ]
+                    }
+                }
+            },
+            {
+                "tweet_id": "2500499",
+                "speaker": "Ask_Spectrum",
+                "utt": "@225341 Our apologies for any frustrations or inconvenience. Is there anything we may be able to assist with? .",
+                "time": "Wed Nov 15 19:27:47 +0000 2017"
+            },
+            {
+                "tweet_id": "2500500",
+                "speaker": "225341",
+                "utt": "@Ask_Spectrum Maybe figure out why?? I missed 3 shows. Waste of time and space recording them.",
+                "time": "Wed Nov 15 20:00:18 +0000 2017",
+                "state": {
+                    "intent": [
+                        "complain"
+                    ],
+                    "requested_slots": [
+                    ],
+                    "slot_values": {
+                        "request": [
+                            "figure out why"
+                        ]
+                    }
+                }
+            },
+            {
+                "tweet_id": "2500502",
+                "speaker": "Ask_Spectrum",
+                "utt": "@225341 If you tune to that channel no is there audio? .",
+                "time": "Wed Nov 15 20:01:43 +0000 2017"
+            },
+            {
+                "tweet_id": "2500503",
+                "speaker": "225341",
+                "utt": "@Ask_Spectrum Ill check when I get back home. Just thought it odd that only your commercials had sound.",
+                "time": "Wed Nov 15 20:02:34 +0000 2017",
+                "state": {
+                    "intent": [
+                        "query"
+                    ],
+                    "requested_slots": [
+                    ],
+                    "slot_values": {
+                        "query": [
+                            "odd that only your commercials had sound"
+                        ]
+                    }
+                }
+            },
+            {
+                "tweet_id": "2500504",
+                "speaker": "Ask_Spectrum",
+                "utt": "\"@225341 No problem. Keep us posted when you return and we would be happy to continue with you. .\"",
+                "time": "Wed Nov 15 20:03:40 +0000 2017"
+            },
+            {
+                "tweet_id": "2500505",
+                "speaker": "225341",
+                "utt": "@Ask_Spectrum Okay, there IS sound on ID today.",
+                "time": "Wed Nov 15 20:41:53 +0000 2017",
+                "state": {
+                    "intent": [
+                        "problem solved"
+                    ],
+                    "requested_slots": [
+
+                    ],
+                    "slot_values": {
+                        "situation": [
+                            "there IS sound on ID today"
+                        ],
+                        "date": [
+                            "today"
+                        ]
+                    }
+                }
+            },
+            {
+                "tweet_id": "2500506",
+                "speaker": "Ask_Spectrum",
+                "utt": "\"@225341 Great. I am not seeing any issues on my end. This may have been an isolated issue with the network itself. If the issues continue please let us know as we can certainly investigate a bit further. .\"",
+                "time": "Wed Nov 15 20:48:58 +0000 2017"
+            },
+            {
+                "tweet_id": "2500507",
+                "speaker": "225341",
+                "utt": "@Ask_Spectrum I definitely will.",
+                "time": "Wed Nov 15 20:53:09 +0000 2017",
+                "state": {
+                    "intent": [
+                        "reply"
+                    ],
+                    "requested_slots": [
+
+                    ],
+                    "slot_values": {
+                        "reply": [
+                            "I definitely will(let us know if the issues continue)"
+                        ]
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "dialogue": 674005,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "2573031",
+                "speaker": "729701",
+                "utt": "@TMobileHelp fix ya shitttt",
+                "time": "Thu Nov 16 19:49:57 +0000 2017",
+                "state": {
+                    "intent": [
+                        "report problem"
+                    ],
+                    "requested_slots": [
+                    ],
+                    "slot_values": {
+                        "request": [
+                            "fix ya shitttt"
+                        ]
+                    }
+                }
+            },
+            {
+                "tweet_id": "2573030",
+                "speaker": "TMobileHelp",
+                "utt": "\"@729701 we would love to make sure you are #MagentaConnected! Please message DM us here: *PatrickUllmann\"",
+                "time": "Thu Nov 16 20:03:29 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 717297,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "2723175",
+                "speaker": "222923",
+                "utt": "@Ask_Spectrum my neighborhood is experiencing extreme slowness this morning. Lexington, NC. Any ETR on this outage? Speed also verified on PC.",
+                "time": "Mon Nov 20 10:55:59 +0000 2017",
+                "state": {
+                    "intent": [
+                        "report problem"
+                    ],
+                    "requested_slots": [
+                        "ETR on this outage"
+                    ],
+                    "slot_values": {
+                        "problem": [
+                            "extreme slowness network", "outage"
+                        ],
+                        "location": [
+                            "Lexington, NC"
+                        ],
+                        "time": [
+                            "this morning"
+                        ]
+                    }
+                }
+            },
+            {
+                "tweet_id": "2723174",
+                "speaker": "Ask_Spectrum",
+                "utt": "@222923 Good morning Zach. If you would please message DM your account or phone number for me, I will be happy to look into this for you.",
+                "time": "Mon Nov 20 11:04:02 +0000 2017"
+            }
+        ]
+    }
+]

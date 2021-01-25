@@ -1,0 +1,4406 @@
+[
+    {
+        "dialogue": 3104,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "15105",
+                "speaker": "119289",
+                "utt": "Sorry Folks, gotta cancel stream tonight since @115955 cannot keep stable speeds or connection today apparently.",
+                "time": "Tue Oct 31 20:07:28 +0000 2017"
+            },
+            {
+                "tweet_id": "15104",
+                "speaker": "119290",
+                "utt": "\"@119289 @115955 Damn you are still having connection problems :/\"",
+                "time": "Wed Nov 01 02:46:58 +0000 2017"
+            },
+            {
+                "tweet_id": "15103",
+                "speaker": "119289",
+                "utt": "\"@119290 @115955 Up and down like a whore's underwear\"",
+                "time": "Wed Nov 01 02:47:58 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 5128,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "25611",
+                "speaker": "121554",
+                "utt": "Impossible 2 get @115714 customer service via phone. There is no option to press zero or talk to an agent. Is this how you keep customers?",
+                "time": "Sun Nov 05 17:47:45 +0000 2017"
+            },
+            {
+                "tweet_id": "25606",
+                "speaker": "sprintcare",
+                "utt": "@121554 we apologize for the inconvenience you are having today. But how can I help you today?",
+                "time": "Sun Nov 05 18:02:18 +0000 2017"
+            },
+            {
+                "tweet_id": "25607",
+                "speaker": "121554",
+                "utt": "\"@sprintcare Had to go to chat to get directions on how to get an operater because you do not give that option. 5555. Then another hour plus+\"",
+                "time": "Sun Nov 05 19:13:14 +0000 2017"
+            },
+            {
+                "tweet_id": "25612",
+                "speaker": "sprintcare",
+                "utt": "@121554 services team to see what can be done on this issue.",
+                "time": "Sun Nov 05 19:13:53 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 12456,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "59806",
+                "speaker": "129667",
+                "utt": "Hey @Ask_Spectrum what the f... wtf is up with my internet? Can you please get it together? that is kinda your job &amp; I pay you for it.",
+                "time": "Wed Nov 01 19:16:42 +0000 2017"
+            },
+            {
+                "tweet_id": "59805",
+                "speaker": "Ask_Spectrum",
+                "utt": "@129667 Hi Jessica, I apologize for the inconvenience. If you would please message DM your account number, full address, and tel...",
+                "time": "Wed Nov 01 19:21:07 +0000 2017"
+            },
+            {
+                "tweet_id": "59801",
+                "speaker": "129667",
+                "utt": "\"@Ask_Spectrum I can message DM you but it will not make much difference when your website still says there is an outage in my area. Any updates on that?\"",
+                "time": "Wed Nov 01 20:49:05 +0000 2017"
+            },
+            {
+                "tweet_id": "59799",
+                "speaker": "Ask_Spectrum",
+                "utt": "@129667 To check on the status of the outage Jessica, would you please provide your zip code.",
+                "time": "Wed Nov 01 20:54:22 +0000 2017"
+            },
+            {
+                "tweet_id": "59800",
+                "speaker": "129667",
+                "utt": "@Ask_Spectrum 91607",
+                "time": "Wed Nov 01 20:55:48 +0000 2017"
+            },
+            {
+                "tweet_id": "59802",
+                "speaker": "Ask_Spectrum",
+                "utt": "@129667 Jessica, Van Nuys/Valley Glen/Valley Village area is still in an outage, and the engineers do not have an ETA fo...",
+                "time": "Wed Nov 01 21:12:09 +0000 2017"
+            },
+            {
+                "tweet_id": "59803",
+                "speaker": "129667",
+                "utt": "\"@Ask_Spectrum So internet has been out for 8+ hours &amp; still no ETA for when it will be fixed? Will we be getting discounts on our bill for this?\"",
+                "time": "Wed Nov 01 21:38:49 +0000 2017"
+            },
+            {
+                "tweet_id": "59804",
+                "speaker": "Ask_Spectrum",
+                "utt": "@129667 Jessica, once he issue is resolved please call 800 and the credit will be issued for time without service.",
+                "time": "Wed Nov 01 21:46:57 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 21167,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "104642",
+                "speaker": "139110",
+                "utt": "@115911 You might want to adhere to some of the rules of being a wireless carrier, like actually supplying people with the service they are paying for. We have spent 4 years paying for service and only having minimal service for a few hours daily.",
+                "time": "Thu Nov 30 18:08:38 +0000 2017"
+            },
+            {
+                "tweet_id": "104641",
+                "speaker": "TMobileHelp",
+                "utt": "\"@139110 Tatjana, you always deserve the best from us. Please shoot us a message DM and let us look into your location to see what is going on. *JamieK\"",
+                "time": "Thu Nov 30 18:10:15 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 26621,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "129092",
+                "speaker": "145060",
+                "utt": "Nice job Spectrum! Can you help me @Ask_Spectrum",
+                "time": "Fri Nov 24 05:08:18 +0000 2017"
+            },
+            {
+                "tweet_id": "129090",
+                "speaker": "Ask_Spectrum",
+                "utt": "@145060 Hello, I do apologize for the internet issues. Could you please message DM us an account number or telephone number? So we can assist you.",
+                "time": "Fri Nov 24 05:16:25 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 36946,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "171581",
+                "speaker": "156062",
+                "utt": "@TMobileHelp @115913 looking for help on BOGO iphone offer on my existing lines. Have been a loyal tmobile customer for 7 years now",
+                "time": "Fri Nov 24 22:04:50 +0000 2017"
+            },
+            {
+                "tweet_id": "171579",
+                "speaker": "TMobileHelp",
+                "utt": "@156062 @115913 I am here to help with an upgrade. Click to send me a message so we can chat. *AshleyNelson",
+                "time": "Fri Nov 24 22:05:59 +0000 2017"
+            },
+            {
+                "tweet_id": "171580",
+                "speaker": "156062",
+                "utt": "\"@TMobileHelp @115913 I clicked the link but have not received a reply\"",
+                "time": "Fri Nov 24 22:16:24 +0000 2017"
+            },
+            {
+                "tweet_id": "171582",
+                "speaker": "TMobileHelp",
+                "utt": "\"@156062 @115913 Thanks so much for your patience, Pooja. we will be meeting you in message DM ASAP. *DanKing\"",
+                "time": "Fri Nov 24 22:19:50 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 44043,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "201654",
+                "speaker": "163630",
+                "utt": "@TMobileHelp Will you update to reflect the latest OTA to Aristo?",
+                "time": "Wed Oct 04 14:48:19 +0000 2017"
+            },
+            {
+                "tweet_id": "201653",
+                "speaker": "TMobileHelp",
+                "utt": "@163630 Thanks for reaching out on this! Shoot me a message DM so I can make sure we get this addressed!",
+                "time": "Wed Oct 04 14:57:00 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 44053,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "201689",
+                "speaker": "163641",
+                "utt": "Woman at @115714 said the zip code I provided has best network .How you telling me this when I have 2 service bars rn",
+                "time": "Wed Oct 04 16:54:58 +0000 2017"
+            },
+            {
+                "tweet_id": "201688",
+                "speaker": "sprintcare",
+                "utt": "@163641 Hello! Do you need our assistance? If so, please send us a Direct Message, so that we can further assist you.",
+                "time": "Wed Oct 04 17:01:40 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 47857,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "216905",
+                "speaker": "167678",
+                "utt": "Shopping for a new cellphone company because @115714 is a liar",
+                "time": "Wed Oct 04 20:10:26 +0000 2017"
+            },
+            {
+                "tweet_id": "216904",
+                "speaker": "sprintcare",
+                "utt": "@167678 It concerns us that you think that way. Please message DM us so we can further assist you and change the image you have about us. AS.",
+                "time": "Wed Oct 04 20:12:39 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 57667,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "260768",
+                "speaker": "178085",
+                "utt": "@115911 Why do not you show @2688 plans love? I cannot take advantage of your free Netflix offer.",
+                "time": "Tue Oct 03 13:34:01 +0000 2017"
+            },
+            {
+                "tweet_id": "260766",
+                "speaker": "TMobileHelp",
+                "utt": "@178085 Hey, Emanuel. You can take advantage of this offer. How many lines do you currently have? *NaeJ",
+                "time": "Tue Oct 03 13:44:01 +0000 2017"
+            },
+            {
+                "tweet_id": "260767",
+                "speaker": "178085",
+                "utt": "@TMobileHelp I have 3 lines on @2688",
+                "time": "Thu Oct 05 21:10:02 +0000 2017"
+            },
+            {
+                "tweet_id": "260769",
+                "speaker": "TMobileHelp",
+                "utt": "\"@178085 Hey there, Manny! You only need 2 lines to get it, so you are set there! You do also have to have a T ONE plan to qualify. *AmandaB\"",
+                "time": "Thu Oct 05 21:14:28 +0000 2017"
+            },
+            {
+                "tweet_id": "260770",
+                "speaker": "178085",
+                "utt": "@TMobileHelp Is @2688 the same as @13675",
+                "time": "Fri Oct 06 00:51:44 +0000 2017"
+            },
+            {
+                "tweet_id": "260771",
+                "speaker": "TMobileHelp",
+                "utt": "@178085 Great question! I am the \"one\" with the answers! Shoot me a message DM and I can get to \"work\"! *DonHebron",
+                "time": "Fri Oct 06 01:26:33 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 62460,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "281596",
+                "speaker": "115911",
+                "utt": "Bleed magenta and live Unlimited with @115911 at the #iHeartVillage #iHeartUnlimited",
+                "time": "Sat Sep 23 21:50:38 +0000 2017"
+            },
+            {
+                "tweet_id": "281592",
+                "speaker": "172663",
+                "utt": "@115911 @14250 @183094 Maybe improve your customer service skills drastically.",
+                "time": "Sat Sep 30 16:32:22 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 73777,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "329425",
+                "speaker": "194514",
+                "utt": "@TMobileHelp",
+                "time": "Fri Oct 27 04:58:40 +0000 2017"
+            },
+            {
+                "tweet_id": "329424",
+                "speaker": "TMobileHelp",
+                "utt": "@194514 You rang? Hit us up in the DM!! *SurDuaneMcGurn",
+                "time": "Fri Oct 27 05:40:04 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 79217,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "353419",
+                "speaker": "200018",
+                "utt": "Only switch to sprint if you want to get treated like crap &amp; spend hours trying to fix your bill every couple months. . FOR A FOLLOW",
+                "time": "Sun Oct 08 03:17:55 +0000 2017"
+            },
+            {
+                "tweet_id": "353418",
+                "speaker": "200017",
+                "utt": "@200018 THIS IS SO TRUE @115714 has the WORST customer service too.",
+                "time": "Sun Oct 08 03:21:06 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 84201,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "375929",
+                "speaker": "205159",
+                "utt": "@TMobileHelp I sent you a message dm",
+                "time": "Mon Oct 09 02:03:22 +0000 2017"
+            },
+            {
+                "tweet_id": "375928",
+                "speaker": "TMobileHelp",
+                "utt": "\"@205159 Awesome! I will meet you there! *PeteHarman\"",
+                "time": "Mon Oct 09 02:28:25 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 90501,
+        "company": "ATT",
+        "turns": [
+            {
+                "tweet_id": "402971",
+                "speaker": "211347",
+                "utt": "I call @ATT customer care to get my phone as modem working, and instead they kill my service. Now I have to go to store? My luck.",
+                "time": "Mon Oct 09 20:15:31 +0000 2017"
+            },
+            {
+                "tweet_id": "402969",
+                "speaker": "ATT",
+                "utt": "@211347 Allow us to properly assist you. message DM us more details for further assistance with your wireless. We hope to hear back soon.",
+                "time": "Mon Oct 09 20:21:37 +0000 2017"
+            },
+            {
+                "tweet_id": "402970",
+                "speaker": "211347",
+                "utt": "@ATT I went to a store and got a new SIM. Thanks though",
+                "time": "Mon Oct 09 20:40:38 +0000 2017"
+            },
+            {
+                "tweet_id": "402972",
+                "speaker": "ATT",
+                "utt": "\"@211347 we are glad to hear you got your problem resolved. Thanks for reaching out. We are always available via social media.",
+                "time": "Mon Oct 09 20:43:32 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 93289,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "415941",
+                "speaker": "214196",
+                "utt": "@sprintcare why do I pay for unlimited lte and the service is slow af?",
+                "time": "Tue Oct 10 02:11:00 +0000 2017"
+            },
+            {
+                "tweet_id": "415940",
+                "speaker": "sprintcare",
+                "utt": "@214196 This is not something we like to hear. Please send us a Direct Message, so that we can further assist you.",
+                "time": "Tue Oct 10 02:23:38 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 93692,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "417363",
+                "speaker": "214586",
+                "utt": "When you lose your phone, have no money and @115911 charges you $27 for a SIM card",
+                "time": "Tue Oct 10 03:32:56 +0000 2017"
+            },
+            {
+                "tweet_id": "417362",
+                "speaker": "TMobileHelp",
+                "utt": "\"@214586 that is how much it usually costs, Oscar! Send us a message DM if you need any further assistance. *ChanneyT\"",
+                "time": "Tue Oct 10 03:35:28 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 103429,
+        "company": "ATT",
+        "turns": [
+            {
+                "tweet_id": "459879",
+                "speaker": "224277",
+                "utt": "Great evening at The Joule Hotel with @21265 @21266 @21267 #paveitforward",
+                "time": "Fri Dec 01 01:16:49 +0000 2017"
+            },
+            {
+                "tweet_id": "459878",
+                "speaker": "ATT",
+                "utt": "@224277 @21265 @21266 @21267 Thanks for the pic, Joni! We hope you enjoy the rest of the night.",
+                "time": "Fri Dec 01 01:26:22 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 104432,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "464082",
+                "speaker": "225344",
+                "utt": "@Ask_Spectrum sorry but you guys are seriously the worst. Cant play anything online without the internet going out after an hour or so.",
+                "time": "Fri Dec 01 02:26:29 +0000 2017"
+            },
+            {
+                "tweet_id": "464081",
+                "speaker": "Ask_Spectrum",
+                "utt": "@225344 I apologize for the delayed response. Have your concerns been addressed? I will need the account holders name and service address to review this. Can you send me this information in a private message? Have you done any troubleshooting? I ask so that we ...",
+                "time": "Fri Dec 01 03:23:17 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 105280,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "467071",
+                "speaker": "226175",
+                "utt": "@TMobileHelp How do I resolve my ticket number 25670467",
+                "time": "Fri Dec 01 04:43:16 +0000 2017"
+            },
+            {
+                "tweet_id": "467070",
+                "speaker": "TMobileHelp",
+                "utt": "@226175 Hey Jenni I can take a look at that with you. Send me a message DM here *KennethStone",
+                "time": "Fri Dec 01 05:10:58 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 110019,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "487188",
+                "speaker": "230937",
+                "utt": "@115913 may be a good CEO and a good guy but your management team has let me down and I regret the switch from @115725 and after 3 months I have had enough and taking my lines back to them. At least they took care of me. @TMobileHelp #takemebackverizon",
+                "time": "Fri Dec 01 15:43:00 +0000 2017"
+            },
+            {
+                "tweet_id": "487187",
+                "speaker": "TMobileHelp",
+                "utt": "\"@230937 @115913 Hello Joshua, I am sad to hear of this news and I am here to work with you to turn this around. we have got your message DM and will be replying shortly. Thank you! *AlissaFast\"",
+                "time": "Fri Dec 01 15:44:36 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 111633,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "492896",
+                "speaker": "212056",
+                "utt": "When I try to redeem my @115911 Tuesday Snapple offer at #7Eleven I get a flashing bar code the store cant scan. Wasted ten minutes trying to figure out why it wouldnt work. Next time partner with competent redemption site.",
+                "time": "Fri Dec 01 17:03:44 +0000 2017"
+            },
+            {
+                "tweet_id": "492895",
+                "speaker": "TMobileHelp",
+                "utt": "\"@212056 We did not want you to experience that at all!!! We want to make sure it is always a great experience when you take advantage of the T Tuesday offer. *MelvaT\"",
+                "time": "Fri Dec 01 17:20:59 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 112041,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "494536",
+                "speaker": "232934",
+                "utt": "@115911 I just joined for your senior plan which I thought was $50 but today it's$60 and thought I could keep my number after 25 years I have to change my number so signed up for this month do not like changing my number so might not sign up for next month,any solutions for me?",
+                "time": "Fri Dec 01 17:43:33 +0000 2017"
+            },
+            {
+                "tweet_id": "494535",
+                "speaker": "TMobileHelp",
+                "utt": "\"@232934 Ruth, we appreciate you reaching out to us here. We realize how important it is to have your account set up the way you need. Did you sign up for auto message DM us. we are happy to help. *GiselleM\"",
+                "time": "Fri Dec 01 17:47:36 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 113650,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "500252",
+                "speaker": "234500",
+                "utt": "Ordered iPhone X online. Didnt receive return kit for old phone and $350 credit. 1 hour on phone directed to return it to store. 1.5 hours in store. Told they cant accept it and need to call again. Still no resolution. Please help! @sprintcare @115714 @116447",
+                "time": "Fri Dec 01 18:50:02 +0000 2017"
+            },
+            {
+                "tweet_id": "500250",
+                "speaker": "sprintcare",
+                "utt": "@234500 We would be glad to help. Please message DM your contact info.",
+                "time": "Fri Dec 01 19:07:04 +0000 2017"
+            },
+            {
+                "tweet_id": "500251",
+                "speaker": "234500",
+                "utt": "@sprintcare Just did.",
+                "time": "Fri Dec 01 19:08:58 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 115004,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "505328",
+                "speaker": "235874",
+                "utt": "@115714 Well Im teleworking and wasting my lunch break in the Sprint store and there is no way I will make it 2 the 3rd store today!!!",
+                "time": "Fri Dec 01 20:48:31 +0000 2017"
+            },
+            {
+                "tweet_id": "505326",
+                "speaker": "sprintcare",
+                "utt": "@235874 We will get this solved , just shoot us a message DM so we can step in to help . FS",
+                "time": "Fri Dec 01 21:03:49 +0000 2017"
+            },
+            {
+                "tweet_id": "505327",
+                "speaker": "235874",
+                "utt": "@sprintcare Thank you. message DM sent. I tried to be as brief but detailed as possible.",
+                "time": "Fri Dec 01 21:20:30 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 115749,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "507845",
+                "speaker": "236608",
+                "utt": "Whyyyyyyyyyyy am I getting #ScamLikely calls 5 times a day? I block them but they keep coming @TMobileHelp",
+                "time": "Fri Dec 01 21:31:08 +0000 2017"
+            },
+            {
+                "tweet_id": "507844",
+                "speaker": "TMobileHelp",
+                "utt": "\"@236608 Hey there, this is Riley with T Send us a direct message so we can see what is going on! Thanks! =) *RileyRed\"",
+                "time": "Fri Dec 01 21:32:54 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 146250,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "618767",
+                "speaker": "266819",
+                "utt": "@Ask_Spectrum To Thanks for the help this morning on DM. This pajama clad Mom did not want to have to venture into the office today!",
+                "time": "Wed Nov 22 14:28:10 +0000 2017"
+            },
+            {
+                "tweet_id": "618766",
+                "speaker": "Ask_Spectrum",
+                "utt": "@266819 I completely understand and you are welcome. Enjoy your Thanksgiving Holiday!",
+                "time": "Wed Nov 22 14:29:06 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 152742,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "645468",
+                "speaker": "273231",
+                "utt": "@TMobileHelp I need help with answering a question on billing. I paid off most of my phones early but auto pay still deducted money for the installments. What happens to that money?",
+                "time": "Wed Nov 22 17:54:39 +0000 2017"
+            },
+            {
+                "tweet_id": "645467",
+                "speaker": "TMobileHelp",
+                "utt": "\"@273231 I would love to answer all questions! Meet me in message DM :) *JenniferRivera\"",
+                "time": "Wed Nov 22 18:07:36 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 162643,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "682322",
+                "speaker": "282841",
+                "utt": "I want a new network @115714 is trash",
+                "time": "Tue Oct 10 18:19:29 +0000 2017"
+            },
+            {
+                "tweet_id": "682320",
+                "speaker": "sprintcare",
+                "utt": "\"@282841 that is terrible! Can you please send me a Direct message providing me with your nearest cross streets and ZIP code?",
+                "time": "Tue Oct 10 18:24:08 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 170019,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "710732",
+                "speaker": "289958",
+                "utt": "@115911 @115913 Can someone please contact me? I just had a phone call abruptly ended by what the service rep called a \"situation\".",
+                "time": "Tue Oct 10 21:17:38 +0000 2017"
+            },
+            {
+                "tweet_id": "710723",
+                "speaker": "TMobileHelp",
+                "utt": "\"@289958 @115913 Please send us a DM, Mike. we are here for you. *MikeRice\"",
+                "time": "Tue Oct 10 21:27:39 +0000 2017"
+            },
+            {
+                "tweet_id": "710724",
+                "speaker": "289958",
+                "utt": "\"@TMobileHelp @115913 I have done this! Awaiting reply!\"",
+                "time": "Tue Oct 10 21:34:21 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 172611,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "721022",
+                "speaker": "292583",
+                "utt": "@Ask_Spectrum you guys seriously need to fix the tv app where it works. I cant watch a show on there without it acting up #FixOrImChanging",
+                "time": "Sat Oct 07 00:55:37 +0000 2017"
+            },
+            {
+                "tweet_id": "721019",
+                "speaker": "Ask_Spectrum",
+                "utt": "@292583 I apologize for the delayed response. Have your concerns been addressed? Have you tried any steps to resolve this...",
+                "time": "Sat Oct 07 06:00:53 +0000 2017"
+            },
+            {
+                "tweet_id": "721018",
+                "speaker": "292583",
+                "utt": "@Ask_Spectrum Its ridiculous",
+                "time": "Wed Oct 11 01:11:03 +0000 2017"
+            },
+            {
+                "tweet_id": "721017",
+                "speaker": "Ask_Spectrum",
+                "utt": "@292583 If there is something specific I can assist you with please feel free to send me your phone or account number in a private message.",
+                "time": "Wed Oct 11 01:45:59 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 176048,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "735391",
+                "speaker": "295925",
+                "utt": "@115955 has another monthly outage!! Shocker!! . a tip #DONTGETSPECTRUM. a joke. league service",
+                "time": "Wed Oct 11 11:39:08 +0000 2017"
+            },
+            {
+                "tweet_id": "735390",
+                "speaker": "Ask_Spectrum",
+                "utt": "@295925 Good Morning, we would be more than happy to look into this issue for you.",
+                "time": "Wed Oct 11 11:58:48 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 179732,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "750715",
+                "speaker": "270566",
+                "utt": "Damn @115714. Youre making it real difficult for me to switch to Android...",
+                "time": "Wed Oct 11 17:21:11 +0000 2017"
+            },
+            {
+                "tweet_id": "750712",
+                "speaker": "sprintcare",
+                "utt": "@270566 Hey there, what seems to be the issue?",
+                "time": "Wed Oct 11 17:33:13 +0000 2017"
+            },
+            {
+                "tweet_id": "750713",
+                "speaker": "270566",
+                "utt": "@sprintcare I would buy their phone outright and go to sprint but Id still need to pay a bunch of fees",
+                "time": "Wed Oct 11 17:35:19 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 189873,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "792950",
+                "speaker": "309079",
+                "utt": "Our @115955 #fiber is not working this morning so please bear with us! Sorry!",
+                "time": "Thu Oct 12 12:30:20 +0000 2017"
+            },
+            {
+                "tweet_id": "792949",
+                "speaker": "Ask_Spectrum",
+                "utt": "\"@309079 I will be happy to help you with your internet service. Would you mind sending us a message DM with your account number?",
+                "time": "Thu Oct 12 13:28:03 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 190533,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "795574",
+                "speaker": "309694",
+                "utt": "@Ask_Spectrum just lost access to WatchESPN, cannot re does not work. what is up with that?",
+                "time": "Sat Oct 07 23:36:50 +0000 2017"
+            },
+            {
+                "tweet_id": "795573",
+                "speaker": "Ask_Spectrum",
+                "utt": "@309694 I apologize for the inconvenience. I will be glad to assist you. Can you message DM me your Name and acct # or phone #?",
+                "time": "Sun Oct 08 04:21:29 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 192128,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "802632",
+                "speaker": "311262",
+                "utt": "@115911 can I get my plan details in email? I am getting a lot of billing issues. Different representatives giving different answers.",
+                "time": "Thu Oct 12 16:16:31 +0000 2017"
+            },
+            {
+                "tweet_id": "802631",
+                "speaker": "115911",
+                "utt": "@311262 Hi Srinath. You can take a look at your account online or using the T app. message DM us if you need further assistance. *KaeW",
+                "time": "Thu Oct 12 16:19:53 +0000 2017"
+            },
+            {
+                "tweet_id": "802630",
+                "speaker": "311262",
+                "utt": "@115911 Yes I need assistance. What is the email contact?",
+                "time": "Thu Oct 12 16:21:18 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 196450,
+        "company": "ATT",
+        "turns": [
+            {
+                "tweet_id": "820477",
+                "speaker": "315451",
+                "utt": "I swear @ATT stays making mistakes and lying about what changes theyre making to your accounts.",
+                "time": "Thu Oct 12 15:51:00 +0000 2017"
+            },
+            {
+                "tweet_id": "820476",
+                "speaker": "ATT",
+                "utt": "\"@315451 To, we would like to help. Could you please send us a message DM with the issues your having as well as your account &amp; contact info?\"",
+                "time": "Thu Oct 12 21:56:29 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 196679,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "821427",
+                "speaker": "179348",
+                "utt": "@Ask_Spectrum Why are many of my Movie Channel movies shown in reg format when info lists it as HD? And I am paying $185 mo for just me.",
+                "time": "Thu Oct 12 21:51:12 +0000 2017"
+            },
+            {
+                "tweet_id": "821425",
+                "speaker": "Ask_Spectrum",
+                "utt": "@179348 Hello, have you check the settings in your cable box and TV?",
+                "time": "Thu Oct 12 22:05:32 +0000 2017"
+            },
+            {
+                "tweet_id": "821426",
+                "speaker": "179348",
+                "utt": "@Ask_Spectrum Got a 48\" TV &amp; haven\\'t changed any settings. Many newer movies say &amp; play in HD. But increasing no\\'s say HD but are not! Feel cheated",
+                "time": "Thu Oct 12 22:12:37 +0000 2017"
+            },
+            {
+                "tweet_id": "1042675",
+                "speaker": "Ask_Spectrum",
+                "utt": "@179348 Please message DM your account name and full address.",
+                "time": "Thu Oct 12 22:17:04 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 198616,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "829319",
+                "speaker": "317482",
+                "utt": "Glad some random guy is more helpful than @Ask_Spectrum",
+                "time": "Sun Oct 08 23:40:56 +0000 2017"
+            },
+            {
+                "tweet_id": "829317",
+                "speaker": "Ask_Spectrum",
+                "utt": "@317482 Thank you for reaching out. Did resetting the converter resolve your issue?",
+                "time": "Sun Oct 08 23:43:04 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 208623,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "871773",
+                "speaker": "326971",
+                "utt": "Aye @115911 get yall network life together so @326970 can use her internet please and thank you.",
+                "time": "Fri Oct 20 20:24:06 +0000 2017"
+            },
+            {
+                "tweet_id": "871772",
+                "speaker": "326970",
+                "utt": "@326971 @115911 But frfr",
+                "time": "Fri Oct 20 20:25:07 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 209936,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "876950",
+                "speaker": "328195",
+                "utt": "Yo de @115714 no he recibido inf alguna sobre ajustes ni he visto nada en facturas....pague el mes completo y me facturaron el prox completo",
+                "time": "Mon Oct 09 21:59:09 +0000 2017"
+            },
+            {
+                "tweet_id": "876948",
+                "speaker": "sprintcare",
+                "utt": "@328195 Nos gustaria evaluar su situacion. Por favor, envenos un mensaje directo, para que podamos ayudarle ms.",
+                "time": "Mon Oct 09 22:11:40 +0000 2017"
+            },
+            {
+                "tweet_id": "876949",
+                "speaker": "328195",
+                "utt": "@sprintcare Bueno, recibimos impacto huracan maria en PR, sin celular dsd entonces. No han dicho ni hecho nada.",
+                "time": "Mon Oct 09 22:13:25 +0000 2017"
+            },
+            {
+                "tweet_id": "876951",
+                "speaker": "sprintcare",
+                "utt": "@328195 Por favor, envenos un message DM para mas detalles.",
+                "time": "Mon Oct 09 22:18:05 +0000 2017"
+            },
+            {
+                "tweet_id": "876953",
+                "speaker": "328195",
+                "utt": "@sprintcare Ok",
+                "time": "Mon Oct 09 22:18:17 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 218594,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "911144",
+                "speaker": "335052",
+                "utt": "I pity @115911 social media team. it is the clean up crew for the lies their employees tell to get sales.",
+                "time": "Fri Oct 13 19:34:22 +0000 2017"
+            },
+            {
+                "tweet_id": "911142",
+                "speaker": "TMobileHelp",
+                "utt": "@335052 We want to provide you with clarity, Philip! message DM us so we can talk about this! *MelindaR",
+                "time": "Fri Oct 13 19:36:14 +0000 2017"
+            },
+            {
+                "tweet_id": "911143",
+                "speaker": "335052",
+                "utt": "\"@TMobileHelp Why would I DM? I had that private conversation in the store. Now it is public and I will blast you for it.\"",
+                "time": "Fri Oct 13 19:36:55 +0000 2017"
+            },
+            {
+                "tweet_id": "911139",
+                "speaker": "TMobileHelp",
+                "utt": "@335052 If you can send me a message DM I would be more then happy to assist :) *JustinCash",
+                "time": "Fri Oct 13 19:45:25 +0000 2017"
+            },
+            {
+                "tweet_id": "911140",
+                "speaker": "335052",
+                "utt": "\"@TMobileHelp No DM's did not you get the message. You know my number you can call and apologize.\"",
+                "time": "Fri Oct 13 19:46:57 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 222156,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "926085",
+                "speaker": "339741",
+                "utt": "@TMobileHelp hey I have some plan questions. Could someone help me out?",
+                "time": "Sat Oct 21 14:21:40 +0000 2017"
+            },
+            {
+                "tweet_id": "926084",
+                "speaker": "TMobileHelp",
+                "utt": "\"@339741 Only on Saturdays! I got you! message DM me let us talk about #AllThePlans *SamoAljasim\"",
+                "time": "Sat Oct 21 14:24:15 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 227797,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "948664",
+                "speaker": "344977",
+                "utt": "Hey @115913 and @115911 hook a brother up! it is time to switch just received a $450 bill from @115725 even after my issue @115990",
+                "time": "Thu Nov 09 10:04:59 +0000 2017"
+            },
+            {
+                "tweet_id": "948663",
+                "speaker": "TMobileHelp",
+                "utt": "@344977 @115913 We have affordable rates &amp; would love for you to join our fam. message DM me *RachaelTansey",
+                "time": "Thu Nov 09 11:00:15 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 233594,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "970895",
+                "speaker": "350368",
+                "utt": "Every month it is soemtbing new with you all @TMobileHelp @115911",
+                "time": "Wed Oct 11 17:22:54 +0000 2017"
+            },
+            {
+                "tweet_id": "970894",
+                "speaker": "TMobileHelp",
+                "utt": "@350368 Hey! We would love to help out. :) Send me a message DM right here: *LaurenWalker",
+                "time": "Wed Oct 11 17:31:05 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 246504,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1023366",
+                "speaker": "362179",
+                "utt": "@TMobileHelp I have Simple Choice plan with 4 lines. Can I still apply for UNLEASH #Pixel2 offer to receive master card for $325 ?",
+                "time": "Thu Oct 12 16:21:15 +0000 2017"
+            },
+            {
+                "tweet_id": "1023365",
+                "speaker": "TMobileHelp",
+                "utt": "@362179 Absolutely! I just responded to your message DM so I will work with you there :) Thank you so much! *TylerRoquemore",
+                "time": "Thu Oct 12 16:25:13 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 246624,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "1023887",
+                "speaker": "362296",
+                "utt": "Yall are clowns @115955 for killing the internet for maintenance. Missed my lakers game and my 2K game got killed",
+                "time": "Thu Nov 16 12:38:26 +0000 2017"
+            },
+            {
+                "tweet_id": "1023886",
+                "speaker": "Ask_Spectrum",
+                "utt": "@362296 We apologize for any inconvenience. Please message DM your phone number and address if you like us to look into this further for you. LS",
+                "time": "Thu Nov 16 12:45:19 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 249005,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1033388",
+                "speaker": "364491",
+                "utt": "Only thing I regret about tcon was the no service with @115911 I had to play guess where everyone is and pray I am lucky to find them.",
+                "time": "Mon Oct 23 05:50:40 +0000 2017"
+            },
+            {
+                "tweet_id": "1033387",
+                "speaker": "TMobileHelp",
+                "utt": "\"@364491 Oh no Silvino! Are you still experiencing this? Send us a message DM and we will make sure you are taken care of! *MelJ\"",
+                "time": "Mon Oct 23 05:53:49 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 254934,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "1058340",
+                "speaker": "369880",
+                "utt": "Dear @Ask_Spectrum why do we constantly have to call to keep the channels we love? I am so tired of Paying for cable and having to do this.",
+                "time": "Sat Oct 14 21:20:14 +0000 2017"
+            },
+            {
+                "tweet_id": "1058338",
+                "speaker": "Ask_Spectrum",
+                "utt": "@369880 Spectrum is currently working with Viacom to reach an agreement that is fair for everyone.",
+                "time": "Sat Oct 14 21:29:29 +0000 2017"
+            },
+            {
+                "tweet_id": "1810573",
+                "speaker": "369880",
+                "utt": "\"@Ask_Spectrum I will be waiting to se how you resolve this to benefit your customers\"",
+                "time": "Sat Oct 14 21:37:22 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 258590,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1073028",
+                "speaker": "117543",
+                "utt": ".@115911s quickly growing network and @116755s plans for new stores will make us a force to be reckoned with.",
+                "time": "Mon Oct 23 15:39:05 +0000 2017"
+            },
+            {
+                "tweet_id": "1073029",
+                "speaker": "322259",
+                "utt": "@117543 @115911 @116755 When are we going to be able for sending sms to Cuba again?",
+                "time": "Mon Oct 23 16:10:14 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 260069,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1078996",
+                "speaker": "374531",
+                "utt": "i love @115911. Patria at the service center in Richmond was amazing. idk how much she makes, but Give Her A Raise!! thanks",
+                "time": "Mon Oct 23 17:23:18 +0000 2017"
+            },
+            {
+                "tweet_id": "1078997",
+                "speaker": "380756",
+                "utt": "@374531 @115911 Lucky guy for the rest of us T customer service stinks",
+                "time": "Tue Oct 24 00:08:53 +0000 2017"
+            },
+            {
+                "tweet_id": "1078994",
+                "speaker": "374531",
+                "utt": "@TMobileHelp will definitely do!!",
+                "time": "Mon Oct 23 17:27:07 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 264390,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "1095595",
+                "speaker": "378541",
+                "utt": "@115955 got a new router box and the wireless is not connecting to my Xboxs! #help #please",
+                "time": "Mon Oct 23 21:21:14 +0000 2017"
+            },
+            {
+                "tweet_id": "1095594",
+                "speaker": "Ask_Spectrum",
+                "utt": "\"@378541 Sorry your connection is not working. I can check the connection if you could message DM your address or account number.",
+                "time": "Mon Oct 23 21:25:38 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 276163,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1143466",
+                "speaker": "389127",
+                "utt": "Lost all respect for @115911 and @125607 EMAIL ME WITH A RESPONSE TO MY PROBLEM. YOUR REPRESENTATIVE SAID YOU WOULD. THANKS",
+                "time": "Sun Oct 15 16:17:51 +0000 2017"
+            },
+            {
+                "tweet_id": "1143465",
+                "speaker": "TMobileHelp",
+                "utt": "\"@389127 We want to win back your confidence, David. Send us a message DM and let us talk more about your experience. *JeremyJ\"",
+                "time": "Sun Oct 15 16:21:38 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 298552,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1233054",
+                "speaker": "409197",
+                "utt": "1) @55 trying to use app to test @115911 speed and I get the Network Connection Issues even though I am connected to internet.",
+                "time": "Mon Oct 16 01:16:06 +0000 2017"
+            },
+            {
+                "tweet_id": "1233053",
+                "speaker": "TMobileHelp",
+                "utt": "\"@409197 we are here to ensure that you have the best speeds, Brandon! Send us a message DM and we can chat. *TarynS\"",
+                "time": "Mon Oct 16 01:18:18 +0000 2017"
+            },
+            {
+                "tweet_id": "1233052",
+                "speaker": "409197",
+                "utt": "@TMobileHelp I am just curious. But app. doesnt detect it is connected to internet via LTE even though I am. App is fine when I am on WiFi",
+                "time": "Mon Oct 16 01:20:19 +0000 2017"
+            },
+            {
+                "tweet_id": "1233051",
+                "speaker": "TMobileHelp",
+                "utt": "@409197 Hmm! That is interesting! Shoot me a DM! I can help! *DonHebron",
+                "time": "Mon Oct 16 01:26:15 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 299460,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1236448",
+                "speaker": "251863",
+                "utt": "To get word out that Pixel rocks on @115911, @115913 sent mobile billboards out to the streets. #BYOPixel.",
+                "time": "Wed Oct 25 18:46:38 +0000 2017"
+            },
+            {
+                "tweet_id": "1236447",
+                "speaker": "409992",
+                "utt": "@251863 @115911 @115913 Ive been trying to register my pixel with T for the past week and its not working... maybe its false advertisement",
+                "time": "Wed Oct 25 18:54:54 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 300616,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "1240806",
+                "speaker": "176886",
+                "utt": "@116447 @sprintcare Really? Why is it that all the other companies in Puerto Rico are on air but @115714 ? @115913 @115911",
+                "time": "Mon Oct 16 02:13:05 +0000 2017"
+            },
+            {
+                "tweet_id": "1240805",
+                "speaker": "sprintcare",
+                "utt": "@176886 Please refer to our press release for the most up to date information about the recovery efforts in PR.",
+                "time": "Mon Oct 16 02:23:24 +0000 2017"
+            },
+            {
+                "tweet_id": "1244827",
+                "speaker": "176886",
+                "utt": "@sprintcare @116447 Apparently I did something wrong cause even tough I read the press release my phone still says No Service. Hmm...",
+                "time": "Mon Oct 16 02:43:21 +0000 2017"
+            },
+            {
+                "tweet_id": "1244826",
+                "speaker": "sprintcare",
+                "utt": "@176886 We are currently on the ground working around the clock to restore sprint service.Thank you. Team @116447",
+                "time": "Mon Oct 16 02:54:18 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 308272,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "1271793",
+                "speaker": "346094",
+                "utt": "@115714 you turn off my servuce for your mistake! Then your customer service rep says he will not let me talk to a supervisor? #ihateyou!",
+                "time": "Thu Oct 26 14:34:01 +0000 2017"
+            },
+            {
+                "tweet_id": "1271791",
+                "speaker": "sprintcare",
+                "utt": "@346094 Hello I am here to help you please give me a good contact phone number I will be happy to call you.",
+                "time": "Thu Oct 26 14:44:12 +0000 2017"
+            },
+            {
+                "tweet_id": "1271792",
+                "speaker": "346094",
+                "utt": "@sprintcare Sprint cut it off so there fore I dont have one.",
+                "time": "Thu Oct 26 14:45:30 +0000 2017"
+            },
+            {
+                "tweet_id": "1271794",
+                "speaker": "sprintcare",
+                "utt": "@346094 Thank You",
+                "time": "Thu Oct 26 14:53:47 +0000 2017"
+            },
+            {
+                "tweet_id": "1271799",
+                "speaker": "346094",
+                "utt": "@266346 @sprintcare @115714 Yup 3 months of dealing with there mistake. And even though I paid they still are requesting more money! So they shut off my phone.",
+                "time": "Thu Oct 26 16:09:32 +0000 2017"
+            },
+            {
+                "tweet_id": "1271801",
+                "speaker": "sprintcare",
+                "utt": "@266346 Please give me a moment to review your previous conversations.",
+                "time": "Thu Oct 26 16:26:42 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 308517,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "1272797",
+                "speaker": "417928",
+                "utt": "Ive been asking @115714 for a return label since APRIL! I call every month. I never get it. Guess whos being charged for that phone? Me.",
+                "time": "Thu Oct 26 14:50:32 +0000 2017"
+            },
+            {
+                "tweet_id": "1272795",
+                "speaker": "sprintcare",
+                "utt": "\"@417928 Wow! This is concerning. Please send us a Direct Message, so that we can further assist you. we are always here to help.",
+                "time": "Thu Oct 26 14:56:37 +0000 2017"
+            },
+            {
+                "tweet_id": "1272796",
+                "speaker": "417928",
+                "utt": "@sprintcare I have done that too... still nothing.",
+                "time": "Thu Oct 26 16:44:36 +0000 2017"
+            },
+            {
+                "tweet_id": "1272798",
+                "speaker": "sprintcare",
+                "utt": "\"@417928 we would really like to look into the matter for you. Please send us a Direct Message, so we can further assist you. we are here to help.",
+                "time": "Thu Oct 26 16:51:09 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 309359,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1276025",
+                "speaker": "418696",
+                "utt": "@115913 My buddy @418697 got me so excited to switch over to @115911, I ported 4 lines over before he could submit my info for a referral.... Anything you can do to help him out!",
+                "time": "Sat Nov 25 12:21:40 +0000 2017"
+            },
+            {
+                "tweet_id": "1276023",
+                "speaker": "TMobileHelp",
+                "utt": "\"@418696 @115913 we are always here to help out in any way we can. Getting a referral is always a great feeling and it deserves a bonus. Just message DM us so we can get started. *CharlesOpacki\"",
+                "time": "Sat Nov 25 12:23:48 +0000 2017"
+            },
+            {
+                "tweet_id": "1276024",
+                "speaker": "418696",
+                "utt": "@TMobileHelp @115913 Thanks! Will do!",
+                "time": "Sat Nov 25 12:30:57 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 311291,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1284149",
+                "speaker": "420388",
+                "utt": "@115911 wheres my Apple Watch",
+                "time": "Thu Oct 26 17:59:50 +0000 2017"
+            },
+            {
+                "tweet_id": "1284148",
+                "speaker": "TMobileHelp",
+                "utt": "\"@420388 What does the status of your order say on My T If you need help, message DM us and let us talk. *JamieK\"",
+                "time": "Thu Oct 26 18:01:00 +0000 2017"
+            },
+            {
+                "tweet_id": "1284147",
+                "speaker": "420388",
+                "utt": "@TMobileHelp I was told I was getting at the end of this month Now it days till next year",
+                "time": "Thu Oct 26 18:04:23 +0000 2017"
+            },
+            {
+                "tweet_id": "1284146",
+                "speaker": "TMobileHelp",
+                "utt": "\"@420388 Hey Ric, I definitely want to see what is going on for you. Send me a message DM here so I can help! *DanLawrence\"",
+                "time": "Thu Oct 26 18:05:33 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 313456,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "1292522",
+                "speaker": "358927",
+                "utt": "Day 13 of @115714 holding my phone hostage. Was promised yesterday (for the 4th time) that it would be unlocked within 72 hours. we will see.",
+                "time": "Thu Oct 26 20:48:12 +0000 2017"
+            },
+            {
+                "tweet_id": "1292521",
+                "speaker": "sprintcare",
+                "utt": "@358927 Please send us a Direct Message, so that we can further assist you. We would like to look into this for you today.",
+                "time": "Thu Oct 26 20:58:00 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 315498,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1300857",
+                "speaker": "424039",
+                "utt": "@115911 #HotMessExpress",
+                "time": "Thu Oct 26 23:57:51 +0000 2017"
+            },
+            {
+                "tweet_id": "1300855",
+                "speaker": "TMobileHelp",
+                "utt": "\"@424039 what is up, Cora? Anything we can help with? *JoanO\"",
+                "time": "Thu Oct 26 23:59:01 +0000 2017"
+            },
+            {
+                "tweet_id": "1300856",
+                "speaker": "424039",
+                "utt": "@TMobileHelp Answer the carrier freedom lines.",
+                "time": "Fri Oct 27 00:00:26 +0000 2017"
+            },
+            {
+                "tweet_id": "1300858",
+                "speaker": "TMobileHelp",
+                "utt": "@424039 I can help you get off hold! Send me a DM. I have the tools to help! *JessicaBrenhaug",
+                "time": "Fri Oct 27 00:01:14 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 319712,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1317711",
+                "speaker": "427779",
+                "utt": "@115911 @TMobileHelp DMd for support and got left hanging. One hour post preorder. No results.",
+                "time": "Fri Oct 27 07:56:26 +0000 2017"
+            },
+            {
+                "tweet_id": "1317710",
+                "speaker": "TMobileHelp",
+                "utt": "\"@427779 We have a message on it is way to you and you should be receiving it shortly. *KatieM\"",
+                "time": "Fri Oct 27 08:03:36 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 321014,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1323982",
+                "speaker": "428964",
+                "utt": "@TMobileHelp why am I being told that I have a down payment when Im a JOD customer for the iPhone X !! Thats not what T posted !!!",
+                "time": "Fri Oct 27 10:37:39 +0000 2017"
+            },
+            {
+                "tweet_id": "1323981",
+                "speaker": "TMobileHelp",
+                "utt": "@428964 Hi there, buddy! Send me a message DM and I will be happy to take a look into this for you. *FaisselD",
+                "time": "Fri Oct 27 10:39:40 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 321773,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "1327252",
+                "speaker": "429665",
+                "utt": "@115714 really sucks. Had me on line in my comp for 30 mins then had me enter my login and right back to the line I went. I need to switch",
+                "time": "Fri Oct 27 08:14:58 +0000 2017"
+            },
+            {
+                "tweet_id": "1327251",
+                "speaker": "sprintcare",
+                "utt": "\"@429665 I am sorry for the trouble, let us get this fixed for you. Did you try preordering the device again?",
+                "time": "Fri Oct 27 11:47:03 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 326667,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1346764",
+                "speaker": "223667",
+                "utt": "I do not understand how @115911's network is so slow in the heart of a tech campus.",
+                "time": "Fri Oct 27 17:00:35 +0000 2017"
+            },
+            {
+                "tweet_id": "1346760",
+                "speaker": "TMobileHelp",
+                "utt": "@223667 I need my data connection to be blazing as well and would be happy to look into this for you. Shoot me a DM. *JPL",
+                "time": "Fri Oct 27 17:02:00 +0000 2017"
+            },
+            {
+                "tweet_id": "1346761",
+                "speaker": "223667",
+                "utt": "@TMobileHelp Especially at rush hour when we need you most.",
+                "time": "Sat Oct 28 01:12:28 +0000 2017"
+            },
+            {
+                "tweet_id": "1346765",
+                "speaker": "TMobileHelp",
+                "utt": "@223667 We understand your concern and want to address this for you! The best way is through DM, please hit us up there. *JonathanMacInnes",
+                "time": "Sat Oct 28 01:13:28 +0000 2017"
+            },
+            {
+                "tweet_id": "1346767",
+                "speaker": "223667",
+                "utt": "\"@TMobileHelp I challenge any tmo support rep to prove the South lake union Amazon campus is really a speed you'd want to advertise\"",
+                "time": "Sat Oct 28 01:10:37 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 327408,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1349542",
+                "speaker": "434703",
+                "utt": "@115911 how do I get my iPhone unlocked from you guys?",
+                "time": "Sat Nov 25 21:28:30 +0000 2017"
+            },
+            {
+                "tweet_id": "1349541",
+                "speaker": "TMobileHelp",
+                "utt": "@434703 Thanks for asking! Send us a message DM and we can assist you with this :) *ChanneyT",
+                "time": "Sat Nov 25 21:29:30 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 333808,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "1376146",
+                "speaker": "438823",
+                "utt": "@116447 please read",
+                "time": "Sat Oct 28 01:21:59 +0000 2017"
+            },
+            {
+                "tweet_id": "1376145",
+                "speaker": "sprintcare",
+                "utt": "@438823 We regret to hear we lost your business. Please send us a message DM with contact information and a timeframe to contact @116447",
+                "time": "Sat Oct 28 01:45:33 +0000 2017"
+            },
+            {
+                "tweet_id": "1376143",
+                "speaker": "438823",
+                "utt": "@sprintcare @116447 Theres already a message DM open where Ive basically been told its on me for buying a phone from a sprint customer...which I didnt do",
+                "time": "Sat Oct 28 01:48:14 +0000 2017"
+            },
+            {
+                "tweet_id": "1376142",
+                "speaker": "sprintcare",
+                "utt": "\"@438823 Your concern has been forwarded to Sprint's Executive &amp; Regulatory department and will assist shortly @116447\"",
+                "time": "Sat Oct 28 02:05:30 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 334029,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1376988",
+                "speaker": "437904",
+                "utt": "@115913 T messes up, and all Im asking is a full refund, and they cant give me That?!",
+                "time": "Mon Oct 16 15:16:16 +0000 2017"
+            },
+            {
+                "tweet_id": "1376987",
+                "speaker": "TMobileHelp",
+                "utt": "@437904 @115913 We want to check this out with you and help. Please message DM us so we can get started: *DanKing",
+                "time": "Mon Oct 16 15:18:27 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 339749,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1399930",
+                "speaker": "445514",
+                "utt": "Tmobile on Fordham is honestly a piece of shit.",
+                "time": "Fri Oct 27 20:21:09 +0000 2017"
+            },
+            {
+                "tweet_id": "1399929",
+                "speaker": "445513",
+                "utt": "@445514 @115911 fix that store",
+                "time": "Sat Oct 28 16:46:01 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 341854,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1408244",
+                "speaker": "367876",
+                "utt": "@115911 does it add any cost to my bill to get an LTE signal booster? Occasionally signal at home drops pretty low.",
+                "time": "Sat Oct 28 19:09:36 +0000 2017"
+            },
+            {
+                "tweet_id": "1408243",
+                "speaker": "TMobileHelp",
+                "utt": "\"@367876 Hey Michael! Sometimes there is a small deposit for a booster, but lets look at your options. message DM us! *MelJ\"",
+                "time": "Sat Oct 28 19:11:38 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 342030,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "1408892",
+                "speaker": "447465",
+                "utt": "@117890 where is a service outage map?",
+                "time": "Mon Oct 16 15:42:35 +0000 2017"
+            },
+            {
+                "tweet_id": "1408891",
+                "speaker": "Ask_Spectrum",
+                "utt": "@447465 Can you please reach out for support to us here by message DM with your acct/ph #?",
+                "time": "Mon Oct 16 17:14:12 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 348109,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "1433480",
+                "speaker": "452835",
+                "utt": "Alright @115714 whats going on? My LTE isnt working. Its been like this all night...",
+                "time": "Tue Oct 17 11:35:22 +0000 2017"
+            },
+            {
+                "tweet_id": "1433479",
+                "speaker": "sprintcare",
+                "utt": "@452835 Hey, I do apologize for the inconvenience caused; however, there has been an outage and our Network Teams are working on the issue.",
+                "time": "Tue Oct 17 11:48:38 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 351085,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "1445744",
+                "speaker": "262618",
+                "utt": "@Ask_Spectrum @115955 I am suppose to have 200mbps, I have 14mbps? I think a refund is in order #overcharging",
+                "time": "Thu Nov 02 10:12:01 +0000 2017"
+            },
+            {
+                "tweet_id": "1445742",
+                "speaker": "Ask_Spectrum",
+                "utt": "@262618 I apologize for the issues you are having with the services. Have your concerns been addressed? If not, I do my b...",
+                "time": "Thu Nov 02 11:55:25 +0000 2017"
+            },
+            {
+                "tweet_id": "1445741",
+                "speaker": "262618",
+                "utt": "@Ask_Spectrum Not today, have had in the past all fixes seem to only last a few days then speeds plumet, have had tech come out and same thing",
+                "time": "Thu Nov 02 12:05:39 +0000 2017"
+            },
+            {
+                "tweet_id": "1445740",
+                "speaker": "Ask_Spectrum",
+                "utt": "@262618 Have we thought about swapping the equipment? I have not been into the account to see what you have, but that may...",
+                "time": "Thu Nov 02 12:13:07 +0000 2017"
+            },
+            {
+                "tweet_id": "1445739",
+                "speaker": "262618",
+                "utt": "@Ask_Spectrum Yes, when the tech came last week he changed out the equipment",
+                "time": "Thu Nov 02 12:15:20 +0000 2017"
+            },
+            {
+                "tweet_id": "1445737",
+                "speaker": "Ask_Spectrum",
+                "utt": "@262618 Can you run a speed test for me now, and see if the speeds have increased? If not, I will try some different things from here.",
+                "time": "Thu Nov 02 12:22:24 +0000 2017"
+            },
+            {
+                "tweet_id": "1445738",
+                "speaker": "262618",
+                "utt": "\"@Ask_Spectrum No I am at work now, this has been ongoing, have had channels changed and checked, equipment swapped, system reset, and nothing\"",
+                "time": "Thu Nov 02 15:48:42 +0000 2017"
+            },
+            {
+                "tweet_id": "1445735",
+                "speaker": "Ask_Spectrum",
+                "utt": "@262618 Okay, once you are home to troubleshoot further let us know.",
+                "time": "Thu Nov 02 15:53:12 +0000 2017"
+            },
+            {
+                "tweet_id": "1445731",
+                "speaker": "262618",
+                "utt": "\"@Ask_Spectrum What is there left to troubleshoot, if a tech cannot fixed it then what else is there to do?\"",
+                "time": "Thu Nov 02 15:54:46 +0000 2017"
+            },
+            {
+                "tweet_id": "1445729",
+                "speaker": "Ask_Spectrum",
+                "utt": "@262618 We would need your to reboot the device and check all cables.",
+                "time": "Thu Nov 02 15:55:42 +0000 2017"
+            },
+            {
+                "tweet_id": "1445730",
+                "speaker": "262618",
+                "utt": "@Ask_Spectrum That has already been done, check the records, this has been an ongoing issue for well over a month with multiple attempts",
+                "time": "Thu Nov 02 15:57:09 +0000 2017"
+            },
+            {
+                "tweet_id": "1445732",
+                "speaker": "Ask_Spectrum",
+                "utt": "@262618 But I can review your account.",
+                "time": "Thu Nov 02 16:00:14 +0000 2017"
+            },
+            {
+                "tweet_id": "1445734",
+                "speaker": "262618",
+                "utt": "@Ask_Spectrum What appointment?",
+                "time": "Thu Nov 02 16:01:30 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 371184,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "1523346",
+                "speaker": "473309",
+                "utt": "@Ask_Spectrum Thank you so much for hanging up on me tonight 5 times!!! Our relationship seems to work when you take my money monthly.",
+                "time": "Tue Nov 07 05:54:27 +0000 2017"
+            },
+            {
+                "tweet_id": "1523344",
+                "speaker": "Ask_Spectrum",
+                "utt": "@473309 Good morning Helen. I apologize for the delayed response to your message.Technicians are currently aware of the i...",
+                "time": "Tue Nov 07 08:13:15 +0000 2017"
+            },
+            {
+                "tweet_id": "1523345",
+                "speaker": "473309",
+                "utt": "@Ask_Spectrum This seems to be happening weekly. Yet I am never given a credit unless I call.",
+                "time": "Tue Nov 07 14:43:11 +0000 2017"
+            },
+            {
+                "tweet_id": "1523347",
+                "speaker": "Ask_Spectrum",
+                "utt": "@473309 My apologies. We have had some problems recently with the service. We are not able to credit for those issues wit...",
+                "time": "Tue Nov 07 16:22:44 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 372192,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1527114",
+                "speaker": "474202",
+                "utt": "T getting on my nerves keep charging me for two months in one bill cycle @115911",
+                "time": "Fri Nov 03 22:06:55 +0000 2017"
+            },
+            {
+                "tweet_id": "1527113",
+                "speaker": "TMobileHelp",
+                "utt": "@474202 Hey there! We understand how frustrating this must be. message DM us so we can look into this for you! *MelindaR",
+                "time": "Fri Nov 03 22:08:12 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 378978,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1552923",
+                "speaker": "480478",
+                "utt": "@115725's insulting credit to trade in a mint condition phone for the iPhone X and little data is greedy, @115911 or other seems better",
+                "time": "Sat Nov 04 04:32:43 +0000 2017"
+            },
+            {
+                "tweet_id": "1552922",
+                "speaker": "TMobileHelp",
+                "utt": "\"@480478 we would love to help you out over here. message DM us if you have questions, Joe. *GiselleM\"",
+                "time": "Sat Nov 04 04:33:56 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 387292,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1585508",
+                "speaker": "487827",
+                "utt": "@TMobileHelp Hi my tablet will not turn on at all. It was working fine yesterday and then it didnt turn on at all charger is not the issue.",
+                "time": "Sat Nov 04 21:11:50 +0000 2017"
+            },
+            {
+                "tweet_id": "1585507",
+                "speaker": "TMobileHelp",
+                "utt": "\"@487827 Hi there, I would be more than happy to help you out today. Send us a message DM so that I can help you further. *VictoriaR\"",
+                "time": "Sat Nov 04 21:12:47 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 389877,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "1595107",
+                "speaker": "490134",
+                "utt": "In addition to reception dropping out regularly, now my texts are sending upwards of 7 times to people. Ugh. @sprintcare",
+                "time": "Sat Nov 04 19:40:32 +0000 2017"
+            },
+            {
+                "tweet_id": "1595106",
+                "speaker": "sprintcare",
+                "utt": "@490134 Hey there please allow us to take a look into this for you. Please send us a Direct Message, so that we can further assist you.",
+                "time": "Sat Nov 04 19:52:51 +0000 2017"
+            },
+            {
+                "tweet_id": "1595105",
+                "speaker": "490134",
+                "utt": "@sprintcare I think the only way to fix my problems is to change carriers. Ive had issues since I switched to Sprint &amp; no one is able to fix them",
+                "time": "Sat Nov 04 21:26:07 +0000 2017"
+            },
+            {
+                "tweet_id": "1595103",
+                "speaker": "sprintcare",
+                "utt": "\"@490134 we would hate to lose you as a member of our Sprint family and would really appreciate the chance to work with you on this.",
+                "time": "Sat Nov 04 21:29:31 +0000 2017"
+            },
+            {
+                "tweet_id": "1595104",
+                "speaker": "490134",
+                "utt": "@sprintcare You dont have access to past Direct Messages, do you? Sprint has worked on this roughly 2x/week since September. Still not fixed.",
+                "time": "Sat Nov 04 21:30:46 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 390202,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1596277",
+                "speaker": "490417",
+                "utt": "T sucks they give you unlimited data but the speeds are so slow it takes two minutes plus for any pictures to load @115911",
+                "time": "Sat Nov 04 21:47:08 +0000 2017"
+            },
+            {
+                "tweet_id": "1596276",
+                "speaker": "TMobileHelp",
+                "utt": "\"@490417 Hey John! let us make sure you are getting the most out of your data! Send us a message DM and we will chat *ErikS\"",
+                "time": "Sat Nov 04 21:48:46 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 390570,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "1597476",
+                "speaker": "490724",
+                "utt": "@9071 please help. @12552 @5709 all local channels out on Charter, including CBS, so no Bama game or lead",
+                "time": "Sat Nov 04 22:34:25 +0000 2017"
+            },
+            {
+                "tweet_id": "1597474",
+                "speaker": "Ask_Spectrum",
+                "utt": "@490724 Our apologies. Local techs have been engaged to investigate this issue but have not provided an ETA for restoration.",
+                "time": "Sat Nov 04 22:36:46 +0000 2017"
+            },
+            {
+                "tweet_id": "1597475",
+                "speaker": "490724",
+                "utt": "@Ask_Spectrum Thanks. @9071",
+                "time": "Sat Nov 04 22:39:39 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 394781,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "1615285",
+                "speaker": "495413",
+                "utt": "@115955 @Ask_Spectrum Do you train your drivers to park in the middle of a crosswalk so pedestrians have to put themselves in danger?",
+                "time": "Tue Oct 17 09:30:08 +0000 2017"
+            },
+            {
+                "tweet_id": "1615283",
+                "speaker": "Ask_Spectrum",
+                "utt": "\"@495413 Thank you for reporting this to us. we will send this to our field leadership team for review.",
+                "time": "Tue Oct 17 10:50:51 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 398280,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1628945",
+                "speaker": "498638",
+                "utt": "@TMobileHelp There are two phones still on my account that I jumped from. I need them removed please and bill updated.",
+                "time": "Tue Oct 17 11:45:34 +0000 2017"
+            },
+            {
+                "tweet_id": "1628944",
+                "speaker": "TMobileHelp",
+                "utt": "@498638 Hey there! We can definitely take a look into this! Send us a message DM so we can get started. *ChrisScott",
+                "time": "Tue Oct 17 11:47:10 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 404141,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "1649823",
+                "speaker": "503942",
+                "utt": "Omg @115955 ACTUALLY dropped @20517 ... how will life go on now that I cant watch @475374 and @44481 #wtf #nooooo",
+                "time": "Sun Nov 05 21:25:28 +0000 2017"
+            },
+            {
+                "tweet_id": "1649822",
+                "speaker": "Ask_Spectrum",
+                "utt": "@503942 I do apologize for the inconvenience and I will be happy to help. Can you message DM me your account number?",
+                "time": "Sun Nov 05 23:08:07 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 418826,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "1705263",
+                "speaker": "136217",
+                "utt": "@Ask_Spectrum is internet out in 63601 or is it just me",
+                "time": "Thu Nov 30 19:05:34 +0000 2017"
+            },
+            {
+                "tweet_id": "1705262",
+                "speaker": "Ask_Spectrum",
+                "utt": "@136217 Please follow/DM your service phone number and I would be happy to look into this for you.",
+                "time": "Thu Nov 30 19:16:06 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 420394,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "1710995",
+                "speaker": "518317",
+                "utt": "@Ask_Spectrum any idea when Internet Service in New Tampa is going to be restored? My internet has been out since 1:00pm this afternoon.",
+                "time": "Tue Nov 07 00:02:08 +0000 2017"
+            },
+            {
+                "tweet_id": "1710994",
+                "speaker": "Ask_Spectrum",
+                "utt": "@518317 I do apologize for the inconvenience and I will be happy to help. Can you message DM me your account number?",
+                "time": "Tue Nov 07 01:35:58 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 422451,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "1718499",
+                "speaker": "270563",
+                "utt": "@116447 I do not LIKE HOW I AM BEING TREATED BY SPRINT @sprintcare @115714 I WAS TOLD SOMETHING &amp; it is NOT BEING HONORED. SPRINT HELP",
+                "time": "Tue Nov 07 00:35:53 +0000 2017"
+            },
+            {
+                "tweet_id": "1718498",
+                "speaker": "sprintcare",
+                "utt": "@270563 Team @116447 will reach out momentarily.",
+                "time": "Tue Nov 07 00:39:04 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 422740,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1719788",
+                "speaker": "156224",
+                "utt": "Apparently my @115911 hell was caused by them not having SIM cards ready?! A plague of iPhone X ruined my day. Or incompetence. Maybe both.",
+                "time": "Tue Nov 07 07:00:31 +0000 2017"
+            },
+            {
+                "tweet_id": "1719787",
+                "speaker": "TMobileHelp",
+                "utt": "\"@156224 @115911 I am still here for you in message DM if you need me, Bob! Thanks again for your time! *MaddieAbbot\"",
+                "time": "Tue Nov 07 07:05:30 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 430244,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "1749202",
+                "speaker": "527222",
+                "utt": "@115714 fails to give any update or protection after employee stole phone with all personal info still on it @116447 @sprintcare",
+                "time": "Tue Nov 07 16:11:33 +0000 2017"
+            },
+            {
+                "tweet_id": "1749201",
+                "speaker": "sprintcare",
+                "utt": "@527222 We will message DM you for more information. Team @116447",
+                "time": "Tue Nov 07 16:19:47 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 435345,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1768515",
+                "speaker": "531719",
+                "utt": "@115911 cannot order @239217. App crashing. website down.",
+                "time": "Tue Nov 07 22:24:47 +0000 2017"
+            },
+            {
+                "tweet_id": "1768514",
+                "speaker": "115911",
+                "utt": "\"@531719 we are working to get this resolved. Check back in for updates if the issue continues to #GetThanked. *JamieK\"",
+                "time": "Tue Nov 07 22:29:49 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 436342,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1772005",
+                "speaker": "532604",
+                "utt": "@115911 what a disaster today with @239217 . I was lucky enough to get my free bowl today. Except I cannot get my free bowl today. No make good code either.",
+                "time": "Wed Nov 08 01:07:31 +0000 2017"
+            },
+            {
+                "tweet_id": "1772004",
+                "speaker": "TMobileHelp",
+                "utt": "@532604 Hey Matt! Send me a message DM so we can take care of you! *DebiChavarria",
+                "time": "Wed Nov 08 01:20:46 +0000 2017"
+            },
+            {
+                "tweet_id": "1772003",
+                "speaker": "532604",
+                "utt": "\"@TMobileHelp I have been trying to but I am not getting a response!\"",
+                "time": "Wed Nov 08 01:25:01 +0000 2017"
+            },
+            {
+                "tweet_id": "1772001",
+                "speaker": "TMobileHelp",
+                "utt": "@532604 All you need to do is click on that link and you can send me a message DM from there :) *DebiChavarria",
+                "time": "Wed Nov 08 01:31:03 +0000 2017"
+            },
+            {
+                "tweet_id": "1772002",
+                "speaker": "532604",
+                "utt": "@TMobileHelp Well I have sent 4 messages in the past hour without a response.",
+                "time": "Wed Nov 08 01:36:42 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 437921,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1776980",
+                "speaker": "533966",
+                "utt": "@115911 @239217 after over an hour of trying this, this is what I get?! Whats great #TmobileTuesdays promo...",
+                "time": "Wed Nov 08 00:10:12 +0000 2017"
+            },
+            {
+                "tweet_id": "1776979",
+                "speaker": "TMobileHelp",
+                "utt": "\"@533966 We want to make sure you are able to #GetThanked this Tuesday! message DM us and we will assist you ASAP. *ValerieP\"",
+                "time": "Wed Nov 08 00:14:26 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 437926,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1777002",
+                "speaker": "533970",
+                "utt": "@115911 #tmobiletuesdays site is down, app is down. That was our dinner plan for tonight : @239217 is a failure. what is the options?. least getting my gas filled tonight #GetThanked",
+                "time": "Wed Nov 08 00:04:48 +0000 2017"
+            },
+            {
+                "tweet_id": "1777001",
+                "speaker": "TMobileHelp",
+                "utt": "\"@533970 we are glad you got to fill up your tank! Regarding Panda Express, send us a message DM so we can assist! *TerriL\"",
+                "time": "Wed Nov 08 00:07:57 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 439610,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "1782143",
+                "speaker": "535440",
+                "utt": "@sprintcare enough of the automated calls 2 return my old devices Ive only had the box to send them back for 5 days and youve called twice!",
+                "time": "Tue Oct 10 23:29:22 +0000 2017"
+            },
+            {
+                "tweet_id": "1782141",
+                "speaker": "sprintcare",
+                "utt": "\"@535440 we are definitely not trying to annoy you, we just want to make sure you remember to return the devices on time to avoid being charged.\"",
+                "time": "Tue Oct 10 23:31:14 +0000 2017"
+            },
+            {
+                "tweet_id": "1782142",
+                "speaker": "535440",
+                "utt": "@sprintcare I called customer service and was told the automated calls would stop. Not really thrilled to be called more. Phones will be sent tomorrow",
+                "time": "Tue Oct 10 23:32:35 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 439886,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1782984",
+                "speaker": "535699",
+                "utt": "Dude @AppleSupport and @115911 can we please get on the same page and help a fellow employee out in enjoying his Apple Watch?!",
+                "time": "Wed Oct 11 02:08:36 +0000 2017"
+            },
+            {
+                "tweet_id": "1782980",
+                "speaker": "TMobileHelp",
+                "utt": "\"@535699 @115913 Hi Jake! This is truly not what I want for you at all. we would love to dig in and get a closer look. message DM us. *AlissaFast\"",
+                "time": "Wed Oct 11 02:13:38 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 441276,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "1787117",
+                "speaker": "298617",
+                "utt": "@115714 wants to help me help my iPhone send text during phone calls",
+                "time": "Wed Oct 11 16:56:27 +0000 2017"
+            },
+            {
+                "tweet_id": "1787116",
+                "speaker": "sprintcare",
+                "utt": "@298617 We can assist you if you let us, we would need for you to message DM us in order to do so. We want all our Sprint customers to be satisfied.",
+                "time": "Wed Oct 11 17:04:33 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 442299,
+        "company": "ATT",
+        "turns": [
+            {
+                "tweet_id": "1790377",
+                "speaker": "537810",
+                "utt": "@ATT hi, can I have my region (Mexico) changed to the US? Right now I am in contract with ATT Mxico.",
+                "time": "Tue Oct 17 22:51:19 +0000 2017"
+            },
+            {
+                "tweet_id": "1790375",
+                "speaker": "ATT",
+                "utt": "\"@537810 Hi Juan! Thanks for reaching out to us. Please message DM us more details of your concerns. we are here awaiting your reply!",
+                "time": "Tue Oct 17 23:06:29 +0000 2017"
+            },
+            {
+                "tweet_id": "1790376",
+                "speaker": "537810",
+                "utt": "\"@ATT It seems I cannot send you DM's...\"",
+                "time": "Wed Oct 18 17:25:33 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 445316,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "1799589",
+                "speaker": "540717",
+                "utt": "@Ask_Spectrum When I started, I am pretty sure my bundle advertised 100mbps but I was informed that I am now at 60mbps. I am paying more now!",
+                "time": "Sat Oct 14 03:22:01 +0000 2017"
+            },
+            {
+                "tweet_id": "1799587",
+                "speaker": "Ask_Spectrum",
+                "utt": "@540717 I apologize for the inconvenience. If you are still experiencing an issue with your services please feel free to ...",
+                "time": "Sat Oct 14 04:54:46 +0000 2017"
+            },
+            {
+                "tweet_id": "1799588",
+                "speaker": "540717",
+                "utt": "\"@Ask_Spectrum I would rather take my business elsewhere.\"",
+                "time": "Sat Oct 14 17:35:34 +0000 2017"
+            },
+            {
+                "tweet_id": "1799590",
+                "speaker": "Ask_Spectrum",
+                "utt": "@540717 I apologize if that is the decision made there. You do have your choice of providers, and we hope you stay with S...",
+                "time": "Sat Oct 14 17:38:41 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 446424,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "1802893",
+                "speaker": "541735",
+                "utt": "@115955 why do not have an app for the @116439???? Super annoying because you have one for everything else.",
+                "time": "Fri Oct 13 13:29:41 +0000 2017"
+            },
+            {
+                "tweet_id": "1802892",
+                "speaker": "Ask_Spectrum",
+                "utt": "@541735 I apologize, Slappy. At the moment we have no plans to unveil support for Amazon Fire TV. Certainly if things cha...",
+                "time": "Fri Oct 13 14:27:17 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 446627,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "1803487",
+                "speaker": "541903",
+                "utt": "we are on Day 2 with @Ask_Spectrum and not happy wo whole house DVR or the signal that keeps breaking up.",
+                "time": "Mon Oct 16 21:52:30 +0000 2017"
+            },
+            {
+                "tweet_id": "1803486",
+                "speaker": "Ask_Spectrum",
+                "utt": "\"@541903 My apologies for any issues you are currently having. I would be happy to help anyway we can. Please message DM your service p...",
+                "time": "Mon Oct 16 22:32:44 +0000 2017"
+            },
+            {
+                "tweet_id": "1803483",
+                "speaker": "541903",
+                "utt": "@Ask_Spectrum When I call in, Spectrum says it has no account with my phone number.",
+                "time": "Wed Oct 18 01:26:26 +0000 2017"
+            },
+            {
+                "tweet_id": "1803481",
+                "speaker": "Ask_Spectrum",
+                "utt": "@541903 Please message DM your service phone number or account number so we can access your account.",
+                "time": "Wed Oct 18 01:30:24 +0000 2017"
+            },
+            {
+                "tweet_id": "1803482",
+                "speaker": "541903",
+                "utt": "\"@Ask_Spectrum that is the problem. I have neither. I waited on hold 14 mins and hung up. Installer left no paperwork, did not hook up phone.\"",
+                "time": "Wed Oct 18 03:16:55 +0000 2017"
+            },
+            {
+                "tweet_id": "1803484",
+                "speaker": "Ask_Spectrum",
+                "utt": "@541903 Please provide your service address.",
+                "time": "Wed Oct 18 03:25:58 +0000 2017"
+            },
+            {
+                "tweet_id": "1803485",
+                "speaker": "541903",
+                "utt": "@Ask_Spectrum Sent message DM",
+                "time": "Wed Oct 18 03:33:37 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 446911,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "1804350",
+                "speaker": "542140",
+                "utt": "@Ask_Spectrum is very slow. Seems like it is going to crash.",
+                "time": "Fri Oct 13 16:55:03 +0000 2017"
+            },
+            {
+                "tweet_id": "1804349",
+                "speaker": "Ask_Spectrum",
+                "utt": "\"@542140 we would be happy to look into any service impairments. Can you please follow/DM your account number, service address and email address?",
+                "time": "Fri Oct 13 17:23:52 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 451000,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "1816368",
+                "speaker": "545632",
+                "utt": "@Ask_Spectrum Outage in 14617, can you help? Chat rep was not helpful.",
+                "time": "Mon Oct 16 02:53:17 +0000 2017"
+            },
+            {
+                "tweet_id": "1816367",
+                "speaker": "Ask_Spectrum",
+                "utt": "@545632 Hello. I apologize for the service issue and I would like to check on this for you. Please send the phone number ...",
+                "time": "Mon Oct 16 06:42:05 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 452867,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "1822822",
+                "speaker": "547211",
+                "utt": "@Ask_Spectrum first month having spectrum and youre liars?",
+                "time": "Sun Oct 15 17:03:45 +0000 2017"
+            },
+            {
+                "tweet_id": "1822821",
+                "speaker": "Ask_Spectrum",
+                "utt": "@547211 I do apologize for the service issues. Could you please Follow/DM your full service address or account number so ...",
+                "time": "Sun Oct 15 18:56:40 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 454113,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1826642",
+                "speaker": "167620",
+                "utt": "@TMobileHelp the 17th is my birthday, what are you giving me? Haha jk",
+                "time": "Tue Oct 17 06:48:49 +0000 2017"
+            },
+            {
+                "tweet_id": "1826641",
+                "speaker": "TMobileHelp",
+                "utt": "@167620 A whole lot of #MagentaLove. HAPPY BIRTHDAY JEREMIAH. Be sure to check out #TMobileTuesdays later on for some crazy good offers! *FreyaH",
+                "time": "Tue Oct 17 06:54:18 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 455707,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "1831675",
+                "speaker": "503507",
+                "utt": "@115955 Letting you know about major issue with Claremont WiFi. Supposed to be 100 Mbps. Please reply when fixed. Thanks!!!",
+                "time": "Mon Oct 16 18:03:35 +0000 2017"
+            },
+            {
+                "tweet_id": "1831674",
+                "speaker": "Ask_Spectrum",
+                "utt": "@503507 My apologies for the internet issues you are seeing there. I am here to help, if you can message DM your account number, ...",
+                "time": "Mon Oct 16 20:08:46 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 455833,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1832066",
+                "speaker": "549689",
+                "utt": "@TMobileHelp I just joined my wife's account and added a line. But when I try to sign into the Tmobile app it says to set up a Tmobile ID.",
+                "time": "Mon Oct 16 20:42:41 +0000 2017"
+            },
+            {
+                "tweet_id": "1832064",
+                "speaker": "TMobileHelp",
+                "utt": "\"@549689 You can log with the same ID or create a different one! I am eager to help you get in, please DM! *OliviaStewart\"",
+                "time": "Mon Oct 16 20:55:51 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 458383,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "1841446",
+                "speaker": "551848",
+                "utt": "I know yall better fix my cable before this wedding come on @115955",
+                "time": "Wed Oct 18 01:11:24 +0000 2017"
+            },
+            {
+                "tweet_id": "1841445",
+                "speaker": "Ask_Spectrum",
+                "utt": "@551848 My apologies for the interruption in your service Ryanne. If you can message DM me and provide me with the full address, ...",
+                "time": "Wed Oct 18 02:14:02 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 458397,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "1841487",
+                "speaker": "551861",
+                "utt": "Well thanks @Ask_Spectrum Center Ice off the air all evening here. Calling it a day.",
+                "time": "Wed Oct 18 01:44:44 +0000 2017"
+            },
+            {
+                "tweet_id": "1841486",
+                "speaker": "Ask_Spectrum",
+                "utt": "@551861 Good evening! I would really like to help with your NHL Center Ice. When you can plz message DM your phone number and address to chat?",
+                "time": "Wed Oct 18 02:22:22 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 461392,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1852571",
+                "speaker": "554413",
+                "utt": "@115913 please Mr. ledgere get back to me soon as you can I dont want to leave t mobile I have been with you guys 15 years!!",
+                "time": "Thu Oct 19 01:51:03 +0000 2017"
+            },
+            {
+                "tweet_id": "1852570",
+                "speaker": "TMobileHelp",
+                "utt": "\"@554413 @115913 Hi George! I do not want you to leave either and I would love to work with you toward a solution. message DM us. *AlissaFast\"",
+                "time": "Thu Oct 19 01:53:08 +0000 2017"
+            },
+            {
+                "tweet_id": "1852569",
+                "speaker": "554413",
+                "utt": "@TMobileHelp @115913 Thanks",
+                "time": "Thu Oct 19 01:57:04 +0000 2017"
+            },
+            {
+                "tweet_id": "1852568",
+                "speaker": "TMobileHelp",
+                "utt": "\"@554413 @115913 you are welcome, George! Meet us in DM, whenever you are ready, so we can get right on this. Thank you! *AlissaFast\"",
+                "time": "Thu Oct 19 01:59:33 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 461929,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1854646",
+                "speaker": "554880",
+                "utt": "When Everyone Else Getting They IPhone x Shipped Except You @115911 @TMobileHelp Whats The Hold Up",
+                "time": "Mon Oct 30 01:42:11 +0000 2017"
+            },
+            {
+                "tweet_id": "1854645",
+                "speaker": "122739",
+                "utt": "@554880 @115911 @TMobileHelp Some have shipped. The lucky ones i am dissapointed smh",
+                "time": "Mon Oct 30 01:43:12 +0000 2017"
+            },
+            {
+                "tweet_id": "1854643",
+                "speaker": "554880",
+                "utt": "@122739 @115911 @TMobileHelp Hopefully I wake up to a Shipped email",
+                "time": "Mon Oct 30 01:51:22 +0000 2017"
+            },
+            {
+                "tweet_id": "1854642",
+                "speaker": "122739",
+                "utt": "@554880 @115911 @TMobileHelp Yeah same",
+                "time": "Mon Oct 30 01:53:22 +0000 2017"
+            },
+            {
+                "tweet_id": "2496411",
+                "speaker": "554880",
+                "utt": "@TMobileHelp Done",
+                "time": "Mon Oct 30 01:53:35 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 470220,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "1882568",
+                "speaker": "561797",
+                "utt": "This is some raggedy streaming @115955",
+                "time": "Sat Oct 21 20:36:59 +0000 2017"
+            },
+            {
+                "tweet_id": "1882567",
+                "speaker": "Ask_Spectrum",
+                "utt": "@561797 My apologies for the issues you are having with your streaming. Please follow/DM your service phone number and I...",
+                "time": "Sat Oct 21 20:41:12 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 472304,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1889662",
+                "speaker": "357626",
+                "utt": "@TMobileHelp I have a question. I know T has to wait for new gear from Apple, but why Almost three months for back ordered watches??",
+                "time": "Sun Oct 22 15:20:07 +0000 2017"
+            },
+            {
+                "tweet_id": "1889661",
+                "speaker": "TMobileHelp",
+                "utt": "\"@357626 Hey Kenneth, waiting is not fun! I totally get it. let us chat further, send me a message DM here: TY :) *AmberSellers\"",
+                "time": "Sun Oct 22 15:22:59 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 472466,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "1890094",
+                "speaker": "563661",
+                "utt": "@126235 @115955 yall suck, I live in Florida and cant watch a Florida team play!! What kind of shit is that ?!",
+                "time": "Sun Oct 08 18:15:16 +0000 2017"
+            },
+            {
+                "tweet_id": "1890095",
+                "speaker": "Ask_Spectrum",
+                "utt": "@563661 I apologize for the delayed response. We can not control which games are selected to be shown. I apologize for the inconvenience.",
+                "time": "Mon Oct 09 00:50:07 +0000 2017"
+            },
+            {
+                "tweet_id": "2070815",
+                "speaker": "563661",
+                "utt": "@Ask_Spectrum Here yall go again with the bs !! Where is the dolphins game man !!",
+                "time": "Sun Oct 22 17:09:07 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 472684,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "1890712",
+                "speaker": "563847",
+                "utt": "@Ask_Spectrum is there an outage in my area? I have no internet! Please help",
+                "time": "Sun Oct 22 18:49:45 +0000 2017"
+            },
+            {
+                "tweet_id": "1890710",
+                "speaker": "Ask_Spectrum",
+                "utt": "\"@563847 Good afternoon, I would be happy to look into any internet issues you are having. Can you please send me your name and...",
+                "time": "Sun Oct 22 18:50:49 +0000 2017"
+            },
+            {
+                "tweet_id": "1890711",
+                "speaker": "563847",
+                "utt": "@Ask_Spectrum Thanks for the speedy reply! Ive sent the info",
+                "time": "Sun Oct 22 18:55:29 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 476422,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "1902225",
+                "speaker": "566899",
+                "utt": "@sprintcare why my data slow as fuck?",
+                "time": "Tue Oct 24 23:19:26 +0000 2017"
+            },
+            {
+                "tweet_id": "1902224",
+                "speaker": "sprintcare",
+                "utt": "@566899 Hi there! We would be more than glad to assist you. how long has it been happening? Please send us a message DM to further assist you. LP",
+                "time": "Tue Oct 24 23:23:52 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 479227,
+        "company": "ATT",
+        "turns": [
+            {
+                "tweet_id": "1911044",
+                "speaker": "569293",
+                "utt": "@ATT do you really get HBO free or is it just a trial?",
+                "time": "Wed Oct 18 12:52:07 +0000 2017"
+            },
+            {
+                "tweet_id": "1911042",
+                "speaker": "ATT",
+                "utt": "@569293 Hey there! Thanks for reaching out to us here! Please message DM us so we can give you details on HBO. We await your response!",
+                "time": "Wed Oct 18 13:13:37 +0000 2017"
+            },
+            {
+                "tweet_id": "1911043",
+                "speaker": "569293",
+                "utt": "@ATT Ill message DM @117735",
+                "time": "Wed Oct 18 14:23:47 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 479305,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1911285",
+                "speaker": "420386",
+                "utt": "@115911 and now I cant join TMobile. Your advertising finally worked on me..and then it lost me. Maybe next time.",
+                "time": "Thu Oct 26 17:55:38 +0000 2017"
+            },
+            {
+                "tweet_id": "1911284",
+                "speaker": "TMobileHelp",
+                "utt": "\"@420386 Dane, we would love to have you with the team!! message DM us and let us talk about our other ongoing promos that can make you happy. :) *JamieK\"",
+                "time": "Thu Oct 26 17:58:46 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 481414,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "1917649",
+                "speaker": "352955",
+                "utt": "The moment I arrived to Puerto Rico I had 0 data @sprintcare most companies work here but you",
+                "time": "Thu Oct 26 09:37:54 +0000 2017"
+            },
+            {
+                "tweet_id": "1917640",
+                "speaker": "sprintcare",
+                "utt": "\"@352955 we are aware of the issue and we know how important is to have your phone available at all time. Updates here",
+                "time": "Thu Oct 26 10:20:25 +0000 2017"
+            },
+            {
+                "tweet_id": "1917641",
+                "speaker": "352955",
+                "utt": "@sprintcare you billed my parents almost $800, they have to pay it for you to credit it? they have no stores open near them, cannot call customer serv",
+                "time": "Thu Oct 26 10:23:07 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 481455,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "1917761",
+                "speaker": "571153",
+                "utt": "Dear @117890. Stop doing whatever you consistently do to completely disable my network service. It is not an outage. You are causing it.",
+                "time": "Thu Oct 26 04:41:12 +0000 2017"
+            },
+            {
+                "tweet_id": "1917759",
+                "speaker": "Ask_Spectrum",
+                "utt": "@571153 Paul, we can certainly look into any service issues you are having. Can you please message DM the full service address an...",
+                "time": "Thu Oct 26 11:10:30 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 483133,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "1923467",
+                "speaker": "572537",
+                "utt": "@sprintcare trying to preorder iPhone X, but even though I own my phone you wont let me upgrade. Fix this or im going to another company",
+                "time": "Fri Oct 27 07:25:25 +0000 2017"
+            },
+            {
+                "tweet_id": "1923466",
+                "speaker": "sprintcare",
+                "utt": "@572537 Hey Nicky! We would hate to see you leave and would like to help. Please, give us a follow and send us a message DM for further assistance.",
+                "time": "Fri Oct 27 08:48:22 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 483150,
+        "company": "ATT",
+        "turns": [
+            {
+                "tweet_id": "1923514",
+                "speaker": "572551",
+                "utt": "Friday cannot come soon enough #iPhoneX",
+                "time": "Fri Oct 27 07:49:14 +0000 2017"
+            },
+            {
+                "tweet_id": "1923513",
+                "speaker": "572550",
+                "utt": "@572551 is this with @ATT ? I have the same confirmation. We will deff get it on nov 3 right? Haha",
+                "time": "Fri Oct 27 07:58:08 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 483435,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "1924452",
+                "speaker": "572823",
+                "utt": "@115714 @sprintcare Any Idea when you will actually let me process my preorder?Don't want to stay up for another 3 hours...#iPhoneX",
+                "time": "Fri Oct 27 08:50:01 +0000 2017"
+            },
+            {
+                "tweet_id": "1924451",
+                "speaker": "sprintcare",
+                "utt": "@572823 Hi! We had an issue earlier today which has been resolved. Please attempt to reprocess your order and let us know if you u were successful.",
+                "time": "Fri Oct 27 12:53:12 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 483731,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "1925396",
+                "speaker": "573079",
+                "utt": "Really annoyed that the @115714 @115858 iPhone X preorder site has errored out 3 times on me. Ive been trying to order for an hour. #iphonex",
+                "time": "Fri Oct 27 07:47:36 +0000 2017"
+            },
+            {
+                "tweet_id": "1925394",
+                "speaker": "sprintcare",
+                "utt": "@573079 We know you want this phone and we want you to have it ASAP. The site is back up and running. Please visit",
+                "time": "Fri Oct 27 14:35:15 +0000 2017"
+            },
+            {
+                "tweet_id": "1925395",
+                "speaker": "573079",
+                "utt": "@sprintcare Thanks for the most generic answer possible.",
+                "time": "Fri Oct 27 16:49:46 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 484415,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "1927561",
+                "speaker": "573656",
+                "utt": "Looks like I also got screwed over by @115714! Stayed up to order the new iPhone and this morning my order was showing up as cancelled. . .",
+                "time": "Fri Oct 27 17:20:16 +0000 2017"
+            },
+            {
+                "tweet_id": "1927559",
+                "speaker": "sprintcare",
+                "utt": "@573656 Uh oh! Your iPhone order was accidentally cancelled. Worry not! Well fix it &amp; call today to get it pre Sorry for the confusion!",
+                "time": "Fri Oct 27 17:57:32 +0000 2017"
+            },
+            {
+                "tweet_id": "1927560",
+                "speaker": "573656",
+                "utt": "@sprintcare I already ordered them again but Im pretty sure the estimated delivery date got pushed way out compared to the one o ordered last night.",
+                "time": "Fri Oct 27 18:12:08 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 484792,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "1928704",
+                "speaker": "573955",
+                "utt": "I wish my data worked as fast as yall send out my monthly bills @115714",
+                "time": "Thu Oct 26 20:11:58 +0000 2017"
+            },
+            {
+                "tweet_id": "1928703",
+                "speaker": "sprintcare",
+                "utt": "\"@573955 We understand your concern. we would like to review this matter, please message DM us to further assist you.",
+                "time": "Thu Oct 26 20:21:04 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 485855,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1931785",
+                "speaker": "525856",
+                "utt": "@TMobileHelp hello how much is the iPhone X because I was considering upgrading however my iPhone 7 Plus still has a $300 balance?",
+                "time": "Sat Oct 28 16:45:02 +0000 2017"
+            },
+            {
+                "tweet_id": "1931783",
+                "speaker": "TMobileHelp",
+                "utt": "\"@525856 I am happy to look into your options for you. Can you please shoot us a message DM so we can find out what options are available? *KelseyW\"",
+                "time": "Sat Oct 28 16:47:09 +0000 2017"
+            },
+            {
+                "tweet_id": "1931784",
+                "speaker": "525856",
+                "utt": "@TMobileHelp Sounds good just did!",
+                "time": "Sat Oct 28 16:48:38 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 487407,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1936708",
+                "speaker": "438807",
+                "utt": "Im still trying to figure out how I paid 1000 for this phone and all youre going to give me is 285 back??? How @TMobileHelp how???",
+                "time": "Fri Oct 27 23:10:23 +0000 2017"
+            },
+            {
+                "tweet_id": "1936707",
+                "speaker": "TMobileHelp",
+                "utt": "@438807 I want to make sure you get the best deal possible on your trade send me a message DM so I can find the best option avail...",
+                "time": "Fri Oct 27 23:11:09 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 487977,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "1938531",
+                "speaker": "576656",
+                "utt": "Bro yall service suck so bad dude what the f... wtf is the problem @115714",
+                "time": "Sat Oct 28 02:58:57 +0000 2017"
+            },
+            {
+                "tweet_id": "1938530",
+                "speaker": "sprintcare",
+                "utt": "@576656 This is definitely not the kind of tweet we like to see. Are you a Sprint customer? If so, please tell us what is your issue.",
+                "time": "Sat Oct 28 03:30:44 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 488859,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "1941800",
+                "speaker": "577437",
+                "utt": "@115955 yalls cable Sucks stop scamming people for your bullshit ass cable",
+                "time": "Sun Oct 29 23:06:22 +0000 2017"
+            },
+            {
+                "tweet_id": "1941799",
+                "speaker": "Ask_Spectrum",
+                "utt": "@577437 I am sorry you are having issues with TV service. may be able to help you get that resolv...",
+                "time": "Sun Oct 29 23:44:26 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 493457,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "1959798",
+                "speaker": "462704",
+                "utt": "I am PISSSSSSED my internet cut off in the middle of me doing my online class TEST. @115955 you all so fucking TRASH it is ridiculous",
+                "time": "Mon Oct 30 21:16:08 +0000 2017"
+            },
+            {
+                "tweet_id": "1959797",
+                "speaker": "Ask_Spectrum",
+                "utt": "\"@462704 Good afternoon, I would be happy to look into any service issues you are having. Can you please send me your name and ...",
+                "time": "Mon Oct 30 21:27:39 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 494425,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "1963484",
+                "speaker": "582164",
+                "utt": "@Ask_Spectrum @144736 very frustrated. called 10/11 for install to new location for 10/27, still no appt and no answers as to why.",
+                "time": "Tue Oct 31 00:21:36 +0000 2017"
+            },
+            {
+                "tweet_id": "1963483",
+                "speaker": "Ask_Spectrum",
+                "utt": "@582164 I apologize for the issues you are having with your installation. I will need the addresses involved to look into...",
+                "time": "Tue Oct 31 02:17:02 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 494555,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "1963949",
+                "speaker": "582279",
+                "utt": "FUCK @115955 and their rude ass customer support people. Worst internet provider same bs as Time Warner. TRASH",
+                "time": "Tue Oct 31 03:10:55 +0000 2017"
+            },
+            {
+                "tweet_id": "1963948",
+                "speaker": "Ask_Spectrum",
+                "utt": "\"@582279 My apologies for any issues you are currently having. I would be happy to help anyway we can. Please message DM your service p...",
+                "time": "Tue Oct 31 03:23:22 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 501028,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "1985191",
+                "speaker": "587634",
+                "utt": "@Ask_Spectrum Any issues in the Louisville area? Internet has been going on and off last 40 minutes???",
+                "time": "Thu Nov 02 01:12:32 +0000 2017"
+            },
+            {
+                "tweet_id": "1985190",
+                "speaker": "Ask_Spectrum",
+                "utt": "@587634 My apologies for the interruption in your service. If you can message DM me and provide me with the full address, phone n...",
+                "time": "Thu Nov 02 03:50:53 +0000 2017"
+            },
+            {
+                "tweet_id": "1985189",
+                "speaker": "587634",
+                "utt": "@Ask_Spectrum Actually found out the issue. Thank you! Can you help me with my inflated bill though??",
+                "time": "Thu Nov 02 03:55:04 +0000 2017"
+            },
+            {
+                "tweet_id": "1985188",
+                "speaker": "Ask_Spectrum",
+                "utt": "@587634 Glad to see the issue was resolved. If you would like to discuss lowering your bill you would have to reach out t...",
+                "time": "Thu Nov 02 03:58:28 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 504015,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1996133",
+                "speaker": "442844",
+                "utt": "@TMobileHelp hi. I bought a line that was meant to be in use for a month, the unlimited at 50$, how do I extend this subscription?",
+                "time": "Wed Oct 18 19:12:48 +0000 2017"
+            },
+            {
+                "tweet_id": "1996132",
+                "speaker": "TMobileHelp",
+                "utt": "@442844 We would be happy to look into extending that for you! Click here to send me a message DM *JustinRhodes",
+                "time": "Wed Oct 18 19:18:09 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 504276,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1996912",
+                "speaker": "590463",
+                "utt": "@115913 T I am breaking up with you. Longtime customer 2 days, 3 reps still no help linking Netflix. Total incompetence.",
+                "time": "Fri Nov 03 16:38:23 +0000 2017"
+            },
+            {
+                "tweet_id": "1996911",
+                "speaker": "TMobileHelp",
+                "utt": "\"@590463 @115913 I am on this, Erin and want to sort this all out for you. Please send a message DM our way to start. *MikeRice\"",
+                "time": "Fri Nov 03 16:40:46 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 504998,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "1999026",
+                "speaker": "239165",
+                "utt": "@TMobileHelp not sure you understand. For somebody to direct message you, you have to follow them. Until you follow me I cannot message DM you.",
+                "time": "Thu Nov 02 20:03:38 +0000 2017"
+            },
+            {
+                "tweet_id": "1999025",
+                "speaker": "TMobileHelp",
+                "utt": "\"@239165 Hi there! we have followed you, and you are all set. Plz click my profile below to send a DM: Thanks! :) *JoshHenegar\"",
+                "time": "Thu Nov 02 20:22:23 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 505144,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "1999441",
+                "speaker": "355914",
+                "utt": "Hey @Ask_Spectrum I missed have 7 of the world series because of your terrible service. How about a credit on my bill?",
+                "time": "Thu Nov 02 09:48:54 +0000 2017"
+            },
+            {
+                "tweet_id": "1999439",
+                "speaker": "Ask_Spectrum",
+                "utt": "@355914 Hello! Thanks for reaching out to us here, I apologize for the delay. I would be happy to review the account. Wou...",
+                "time": "Thu Nov 02 21:26:11 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 517619,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "2036112",
+                "speaker": "601969",
+                "utt": "Snapchat not working/ not loading snaps aint a surprise when you have @115714",
+                "time": "Mon Nov 06 21:46:09 +0000 2017"
+            },
+            {
+                "tweet_id": "2036111",
+                "speaker": "sprintcare",
+                "utt": "@601969 How long has this been occurring? Please send us a Direct Message, so that we can further assist you.",
+                "time": "Mon Nov 06 22:04:18 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 518073,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "2037263",
+                "speaker": "450206",
+                "utt": "@Ask_Spectrum again with the app not working?",
+                "time": "Tue Nov 07 00:48:26 +0000 2017"
+            },
+            {
+                "tweet_id": "2037262",
+                "speaker": "Ask_Spectrum",
+                "utt": "@450206 I got an error when I first tried, but when I closed in and reopened it again, it worked. On what device are you seeing the error?",
+                "time": "Tue Nov 07 01:00:12 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 519538,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "2041371",
+                "speaker": "603584",
+                "utt": ".@TMobileHelp so much for the @239217 promo. #LoadingScreenSimulator. not work on multiple devices. Whats up with this. #Tech",
+                "time": "Wed Nov 08 01:26:08 +0000 2017"
+            },
+            {
+                "tweet_id": "2041370",
+                "speaker": "TMobileHelp",
+                "utt": "@603584 Were pulling the offer due to this ordering issue. Well work to make sure you still get thanked. Keep an eye on the app! *JasonBurr",
+                "time": "Wed Nov 08 01:57:48 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 523497,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "2052457",
+                "speaker": "606991",
+                "utt": "@115955 Worst service ever! DO NOT subscribe! Not taking calls! #SpectrumSucks #CharterSpectrumSucks",
+                "time": "Thu Oct 05 20:40:47 +0000 2017"
+            },
+            {
+                "tweet_id": "2052456",
+                "speaker": "Ask_Spectrum",
+                "utt": "@606991 I certainly apologize for any inconvenience Page. Has anyone been able to look into this matter for you, or did y...",
+                "time": "Thu Oct 05 23:16:16 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 524054,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "2053907",
+                "speaker": "607446",
+                "utt": "@Ask_Spectrum why does this happen every day when I want to watch my shows",
+                "time": "Fri Oct 06 00:30:55 +0000 2017"
+            },
+            {
+                "tweet_id": "2053905",
+                "speaker": "Ask_Spectrum",
+                "utt": "@607446 Apologies for the delayed response, if you are still experiencing issues, can you please message DM the name, phone #, an...",
+                "time": "Fri Oct 06 04:47:28 +0000 2017"
+            },
+            {
+                "tweet_id": "2053906",
+                "speaker": "607446",
+                "utt": "@Ask_Spectrum This issue happens about every other day and you know it. Just trying to get the word out there.",
+                "time": "Tue Oct 10 18:01:59 +0000 2017"
+            },
+            {
+                "tweet_id": "2053908",
+                "speaker": "Ask_Spectrum",
+                "utt": "@607446 We would be happy to look into this for you. If programs recorded to your DVR are not working that can be for sev...",
+                "time": "Tue Oct 10 18:03:43 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 525455,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "2057896",
+                "speaker": "320501",
+                "utt": "@116447 @sprintcare @115714 @180843 @124218 Porting dept just told me it will not be up until November 20th! #WTF",
+                "time": "Thu Oct 19 00:13:33 +0000 2017"
+            },
+            {
+                "tweet_id": "2057895",
+                "speaker": "sprintcare",
+                "utt": "@320501 We will have an analyst reach out shortly. Thank you.",
+                "time": "Thu Oct 19 00:25:19 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 528242,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "2065972",
+                "speaker": "410907",
+                "utt": "@Ask_Spectrum is there problems in SC? All of my channels are jumbled up and different numbers and I dont get any local channels anymore???",
+                "time": "Sat Oct 07 23:54:05 +0000 2017"
+            },
+            {
+                "tweet_id": "2065971",
+                "speaker": "Ask_Spectrum",
+                "utt": "@410907 Hello. I apologize for the service issue and I would like to check on this for you. Please send the phone number ...",
+                "time": "Sun Oct 08 02:26:03 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 528476,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "2066640",
+                "speaker": "406369",
+                "utt": "@Ask_Spectrum Ehat happened to my internet? Paying for 60 and getting less than 1.",
+                "time": "Sun Oct 08 02:02:14 +0000 2017"
+            },
+            {
+                "tweet_id": "2066638",
+                "speaker": "Ask_Spectrum",
+                "utt": "@406369 Hello, have you tried any of the steps found here or here If you...",
+                "time": "Sun Oct 08 05:28:11 +0000 2017"
+            },
+            {
+                "tweet_id": "2066639",
+                "speaker": "406369",
+                "utt": "\"@Ask_Spectrum Yes, I was on that site and did all those steps. Rebooted several times, etc. I will message DM you.\"",
+                "time": "Sun Oct 08 13:14:25 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 531040,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "2073613",
+                "speaker": "613307",
+                "utt": "@115955 why does your service suck all the time.",
+                "time": "Tue Oct 10 02:37:44 +0000 2017"
+            },
+            {
+                "tweet_id": "2073612",
+                "speaker": "Ask_Spectrum",
+                "utt": "@613307 If there is something specific I can assist you with please feel free to send me your phone or account number in a private message.",
+                "time": "Tue Oct 10 03:49:43 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 532447,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "2077630",
+                "speaker": "614465",
+                "utt": "@115955 New DVR setup is awful! New eps get buried at the bottom. Tonight's new Bourdain is at bottom under \"Other Episodes\". PLS FIX!",
+                "time": "Mon Oct 09 05:51:26 +0000 2017"
+            },
+            {
+                "tweet_id": "2077629",
+                "speaker": "Ask_Spectrum",
+                "utt": "@614465 I do apologize for the service issues. Could you please Follow/DM your full service address or account number so ...",
+                "time": "Mon Oct 09 13:58:14 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 535878,
+        "company": "ATT",
+        "turns": [
+            {
+                "tweet_id": "2088604",
+                "speaker": "617439",
+                "utt": "Tbh where we live around they do, but when I travel out of central Florida theyre amazing.",
+                "time": "Sun Nov 05 21:20:53 +0000 2017"
+            },
+            {
+                "tweet_id": "2088603",
+                "speaker": "617440",
+                "utt": "@617439 Very unfortunate. I need signal in central Florida @ATT. Thanks.",
+                "time": "Sun Nov 05 21:23:31 +0000 2017"
+            },
+            {
+                "tweet_id": "2088602",
+                "speaker": "617439",
+                "utt": "@617440 @ATT Yeah and I need credits on my bill to compensate for my bad service. @ATT",
+                "time": "Sun Nov 05 21:24:26 +0000 2017"
+            },
+            {
+                "tweet_id": "2088601",
+                "speaker": "617440",
+                "utt": "@617439 @ATT I co this.",
+                "time": "Sun Nov 05 21:30:24 +0000 2017"
+            },
+            {
+                "tweet_id": "2088600",
+                "speaker": "617439",
+                "utt": "@617440 @ATT",
+                "time": "Sun Nov 05 21:40:47 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 540507,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "2104758",
+                "speaker": "586103",
+                "utt": "so tired of @115714 telling me theres an outage in ur area when there isnt! yalls service just SUCKS! my phone has been out of service on n off for the past wk and ive gotten NO definite answers or any GOOD help!",
+                "time": "Wed Nov 08 11:06:41 +0000 2017"
+            },
+            {
+                "tweet_id": "2104756",
+                "speaker": "sprintcare",
+                "utt": "@586103 Hi! Are you still having issues with your service? Sup TM",
+                "time": "Wed Nov 08 11:50:24 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 557062,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "2162213",
+                "speaker": "634901",
+                "utt": "@Ask_Spectrum theres obviously something wrong why cant you guys just announce what time itll be fix instead of replying to every single tweet and not helping",
+                "time": "Thu Nov 09 06:13:31 +0000 2017"
+            },
+            {
+                "tweet_id": "2162212",
+                "speaker": "Ask_Spectrum",
+                "utt": "@634901 Good evening Matt! I would really like to help with your services. When you can plz message DM your phone number and address to chat?",
+                "time": "Thu Nov 09 07:18:33 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 557068,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "2162226",
+                "speaker": "567301",
+                "utt": "@Ask_Spectrum outage in 10011 again?",
+                "time": "Thu Nov 09 05:56:17 +0000 2017"
+            },
+            {
+                "tweet_id": "2162224",
+                "speaker": "Ask_Spectrum",
+                "utt": "@567301 Good evening! I would really like to help with your services. When you can plz message DM your phone number and address to chat?",
+                "time": "Thu Nov 09 06:59:19 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 562722,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "2182952",
+                "speaker": "639448",
+                "utt": "Always telling me FALSE information Im so over this stupid fucking service @115911 YOU ARE HORRIBLE",
+                "time": "Thu Nov 09 15:34:11 +0000 2017"
+            },
+            {
+                "tweet_id": "2182951",
+                "speaker": "TMobileHelp",
+                "utt": "\"@639448 Woah Elisa, what happened? message DM us, I am sure we can turn this around. *JoanO\"",
+                "time": "Thu Nov 09 15:35:04 +0000 2017"
+            },
+            {
+                "tweet_id": "2182949",
+                "speaker": "639448",
+                "utt": "@116750 @TMobileHelp T sucks",
+                "time": "Thu Nov 09 15:53:11 +0000 2017"
+            },
+            {
+                "tweet_id": "2182948",
+                "speaker": "TMobileHelp",
+                "utt": "\"@639448 I am sorry to hear that. I see you send us a DM. I will reach out to you there. *JonPorter\"",
+                "time": "Thu Nov 09 16:23:21 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 579680,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "2241093",
+                "speaker": "653410",
+                "utt": "I am thinking that maybe Spectrum cable might want to pull their ad with the fake Louis CK just to be safe.",
+                "time": "Fri Nov 10 13:50:29 +0000 2017"
+            },
+            {
+                "tweet_id": "2241092",
+                "speaker": "Ask_Spectrum",
+                "utt": "@653410 Thank you for your feedback. Please know that we take all comments towards our service serious. We will make s...",
+                "time": "Fri Nov 10 14:23:12 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 581136,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "2246234",
+                "speaker": "654653",
+                "utt": "@115858 @115714 its been 2 days when can I activate my devices?",
+                "time": "Fri Nov 10 23:16:09 +0000 2017"
+            },
+            {
+                "tweet_id": "2246233",
+                "speaker": "sprintcare",
+                "utt": "@654653 Hi there, thanks for reaching out to us. Please send us a Direct Message, so that we can further assist you. We are here to help.",
+                "time": "Fri Nov 10 23:19:14 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 585658,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "2261366",
+                "speaker": "658406",
+                "utt": "@115955 This place is a rip They just keep raising my bill month after month and say we are on a stepping stone promotion. First time I heard about it. $20 here $20 there. Time to make a change. Whos better @247 or @117830?",
+                "time": "Sat Nov 11 00:33:42 +0000 2017"
+            },
+            {
+                "tweet_id": "2261365",
+                "speaker": "Ask_Spectrum",
+                "utt": "@658406 Thank you for reaching out to us Bradley. While I would love to assist you with this package pricing issue, we do...",
+                "time": "Sat Nov 11 00:45:41 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 588301,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "2270241",
+                "speaker": "660583",
+                "utt": "we pay for the fastest wifi but the shit is slow as fuck. I swear all cable companies do is scam. Fuck Time Warner",
+                "time": "Sun Nov 26 15:37:06 +0000 2017"
+            },
+            {
+                "tweet_id": "2270240",
+                "speaker": "Ask_Spectrum",
+                "utt": "@660583 My apologies for the internet issues you are seeing there. I am here to help, if you can message DM your account number, phone number, or home address to start.",
+                "time": "Sun Nov 26 15:37:47 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 589890,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "2275524",
+                "speaker": "661848",
+                "utt": "@sprintcare Traveled (U.K) and cant get into my Sprint iPhone app to check my European roaming/status I get error. Pls PM me as soon as possible ASAP #issue",
+                "time": "Sat Nov 11 07:31:04 +0000 2017"
+            },
+            {
+                "tweet_id": "2275523",
+                "speaker": "sprintcare",
+                "utt": "@661848 We would be more than happy to assist you with this. Please send us a Direct Message, so that we can further assist you.",
+                "time": "Sat Nov 11 07:35:02 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 595468,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "2294907",
+                "speaker": "666382",
+                "utt": "End up yelling obscenities at voice recording because I cannot get help from @115911 and cannot get live person. They spend zillions on marketing, nothing on support. Pretty much the way it is today.",
+                "time": "Thu Oct 19 19:58:56 +0000 2017"
+            },
+            {
+                "tweet_id": "2294906",
+                "speaker": "TMobileHelp",
+                "utt": "\"@666382 we are all about offering support. How can we assist Johnett? *JasmineS\"",
+                "time": "Thu Oct 19 20:00:38 +0000 2017"
+            },
+            {
+                "tweet_id": "2294903",
+                "speaker": "666382",
+                "utt": "@TMobileHelp My voicemail does not show messages for several hours or sometimes days.",
+                "time": "Thu Oct 19 20:11:50 +0000 2017"
+            },
+            {
+                "tweet_id": "2294901",
+                "speaker": "TMobileHelp",
+                "utt": "@666382 Yikes! Not good at all! Send me a message DM and I will be more than happy to take a look. *EricMarentes",
+                "time": "Thu Oct 19 20:14:18 +0000 2017"
+            },
+            {
+                "tweet_id": "2294902",
+                "speaker": "666382",
+                "utt": "@TMobileHelp Did that an hour ago. ???",
+                "time": "Thu Oct 19 21:30:24 +0000 2017"
+            },
+            {
+                "tweet_id": "2294904",
+                "speaker": "TMobileHelp",
+                "utt": "@666382 Hey, I am here for you. We will address your concerns right away. Let go ahead and continue through a direct message! *AlfonosM",
+                "time": "Thu Oct 19 21:36:09 +0000 2017"
+            },
+            {
+                "tweet_id": "2294905",
+                "speaker": "666382",
+                "utt": "@TMobileHelp This is getting ridiculous. Tried link sent, got This Page Doesn\\'t Exist. Followed on computer and TMobile sent code. Entered code. Said \"close page, specialist will be right with you.\" Nothing. MY VOICEMAIL DOESN\\'T TAKE MESSAGES FOR HOURS. What else do you need to know?",
+                "time": "Thu Oct 19 21:39:35 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 601498,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "2315345",
+                "speaker": "302088",
+                "utt": "What kind of installation person unplugs shit they dont know what it is and leaves the cables like this? @Ask_Spectrum",
+                "time": "Mon Nov 13 05:47:08 +0000 2017"
+            },
+            {
+                "tweet_id": "2315344",
+                "speaker": "Ask_Spectrum",
+                "utt": "@302088 Good evening! I would be happy to help with your Installation. When you can please message DM your phone number and address to chat?",
+                "time": "Mon Nov 13 06:30:49 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 603165,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "2321253",
+                "speaker": "672670",
+                "utt": "@TMobileHelp I need help, can you guys help me out?",
+                "time": "Sun Oct 29 06:10:44 +0000 2017"
+            },
+            {
+                "tweet_id": "2321252",
+                "speaker": "TMobileHelp",
+                "utt": "@672670 Thanks so much for reaching out, and I just responded to your DM. *AustinWebb",
+                "time": "Sun Oct 29 06:49:33 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 610174,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "2345483",
+                "speaker": "115714",
+                "utt": "Check out the new LG V30+, exclusively from Sprint. #WorksForMe",
+                "time": "Fri Oct 20 20:43:07 +0000 2017"
+            },
+            {
+                "tweet_id": "2345482",
+                "speaker": "622470",
+                "utt": "@115714 Can you please update me on this",
+                "time": "Mon Nov 13 15:30:25 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 615403,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "2364405",
+                "speaker": "682641",
+                "utt": "@Ask_Spectrum are there outages in South Charlotte NC?",
+                "time": "Mon Nov 13 22:00:41 +0000 2017"
+            },
+            {
+                "tweet_id": "2364404",
+                "speaker": "Ask_Spectrum",
+                "utt": "@682641 Hello! Thanks for reaching out to us here, I would be happy to help and check on this for us. Would you be able t...",
+                "time": "Mon Nov 13 22:08:53 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 618118,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "2373997",
+                "speaker": "383624",
+                "utt": "Wow @Ask_Spectrum was having a few issues with the modem and took it in to be replaced. Only to find out the replacement is a and the wifi had for years is now an extra $5/mo? Very dissatisfied",
+                "time": "Tue Nov 14 01:22:18 +0000 2017"
+            },
+            {
+                "tweet_id": "2373995",
+                "speaker": "Ask_Spectrum",
+                "utt": "@383624 Hello, Donald. I will be happy to answer any questions you have about your account. Please send me a message DM with your...",
+                "time": "Tue Nov 14 01:48:13 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 618669,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "2375850",
+                "speaker": "684865",
+                "utt": "@sprintcare I do not know where to begin with the horrible support I have received over the past two days. Not only did it take half a day to get my phone activated, but now I am in order hell with two orders already bring cancelled because of the \"fraud\" team. Absurd!",
+                "time": "Sat Nov 11 21:47:43 +0000 2017"
+            },
+            {
+                "tweet_id": "2375848",
+                "speaker": "sprintcare",
+                "utt": "@684865 Sounds like we need to take a look and get this resolved ASAP! Please send us a DM! Q",
+                "time": "Sun Nov 12 00:03:39 +0000 2017"
+            },
+            {
+                "tweet_id": "2375849",
+                "speaker": "684865",
+                "utt": "\"@sprintcare No need. I canceled my service today because of the horrendous experience I have encountered over the past few days. I cancelled a free year of BYOD service imagine how frustrated I was to be able to cancel free service!\"",
+                "time": "Tue Nov 14 01:59:32 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 626972,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "2405954",
+                "speaker": "691963",
+                "utt": "@Ask_Spectrum Spectrum is the worst company in the world. Lie to their customers.",
+                "time": "Tue Nov 14 14:02:18 +0000 2017"
+            },
+            {
+                "tweet_id": "2405953",
+                "speaker": "Ask_Spectrum",
+                "utt": "@691963 I am sorry for the poor experience. Can you please DM/PM the full service address and name on the account, as we ...",
+                "time": "Tue Nov 14 14:53:39 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 629613,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "2415434",
+                "speaker": "694259",
+                "utt": "@ATT @115725 Please Put @115955 out of their misery for customer service sake. Ive never had this much trouble with an internet provider. #Spectrumsucks",
+                "time": "Tue Nov 14 17:15:37 +0000 2017"
+            },
+            {
+                "tweet_id": "2415433",
+                "speaker": "Ask_Spectrum",
+                "utt": "@694259 I am sorry to hear you have had so much trouble. I would be happy to help. What issues have you been experiencing?",
+                "time": "Tue Nov 14 17:19:53 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 638204,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "2445671",
+                "speaker": "285512",
+                "utt": "@115911 @115913 No reception at the #Atlanta @11189 Medical Center! @ATT &amp; @115725 do though Connectivity is important for taking care of patients.",
+                "time": "Wed Nov 15 01:01:37 +0000 2017"
+            },
+            {
+                "tweet_id": "2445670",
+                "speaker": "TMobileHelp",
+                "utt": "@285512 @115913 I want to make sure you have the best possible service there, Erik. Please message DM us. *MikeRice",
+                "time": "Wed Nov 15 01:02:41 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 640496,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "2454132",
+                "speaker": "193375",
+                "utt": "Gracias @246638 por la gorra pero nadie me quiere regalar una camisa :(",
+                "time": "Sun Oct 29 17:51:48 +0000 2017"
+            },
+            {
+                "tweet_id": "2454131",
+                "speaker": "TMobileHelp",
+                "utt": "@193375 Hola @193375, esa es una gran gorra. Yo tambin quiero una camisa. Esperemos que salga ms equipo. : *AbrohamVela",
+                "time": "Sun Oct 29 19:10:32 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 643359,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "2464617",
+                "speaker": "205979",
+                "utt": "@Ask_Spectrum why do customers have to learn about scheduled outages when their service fails? Notifications ahead of time should be easy in 2017, yes?",
+                "time": "Wed Nov 15 09:48:11 +0000 2017"
+            },
+            {
+                "tweet_id": "2464615",
+                "speaker": "Ask_Spectrum",
+                "utt": "\"@205979 Hi Shane, I apologize for any inconvenience and frustration the issue has caused. If you'd like me to look into anything further, please send your phone number and address. LS\"",
+                "time": "Wed Nov 15 09:55:07 +0000 2017"
+            },
+            {
+                "tweet_id": "2464616",
+                "speaker": "205979",
+                "utt": "\"@Ask_Spectrum I have already talked to a representative, they said my internet would be out until 0600CST. Why did I not know about this before??\"",
+                "time": "Wed Nov 15 09:58:51 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 643618,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "2465513",
+                "speaker": "705554",
+                "utt": "Internet is still out. Call @115955 and they say there is no outage in my area. So many ISP issues lately. Annoying af for a streamer.",
+                "time": "Sun Oct 29 19:18:27 +0000 2017"
+            },
+            {
+                "tweet_id": "2465511",
+                "speaker": "Ask_Spectrum",
+                "utt": "@705554 I do apologize for the inconvenience and I will be happy to help. Can you message DM me your account number?",
+                "time": "Sun Oct 29 19:36:18 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 643900,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "2466523",
+                "speaker": "705780",
+                "utt": "@sprintcare Just wasted 20 min on phone with CS or wasted 30 min chat session with CS or both. Contract is up paid FMV for device, but...",
+                "time": "Sun Oct 29 20:21:10 +0000 2017"
+            },
+            {
+                "tweet_id": "2466520",
+                "speaker": "sprintcare",
+                "utt": "@705780 Hello I am here and ready to assist you. What is going on that makes you consider leaving?",
+                "time": "Sun Oct 29 20:22:59 +0000 2017"
+            },
+            {
+                "tweet_id": "2466521",
+                "speaker": "705780",
+                "utt": "\"@sprintcare I called to purchase my IPhone 6S and cancel my lease. According to the chat session CS it is completed. I want to have my phone unlocked\"",
+                "time": "Sun Oct 29 20:27:27 +0000 2017"
+            },
+            {
+                "tweet_id": "2466524",
+                "speaker": "sprintcare",
+                "utt": "@705780 Thank you.",
+                "time": "Sun Oct 29 20:42:58 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 645926,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "2473957",
+                "speaker": "703891",
+                "utt": "Requested a warranty replacement on Sun. Was told I would have it by Tuesday. Come to find out request was completed by their reps. 4 now with no working phone. My #WednesdayWisdom is @115911 Custom Service and it Reps Suck! #TheyScrewedMeOver",
+                "time": "Wed Nov 15 12:58:04 +0000 2017"
+            },
+            {
+                "tweet_id": "2473956",
+                "speaker": "TMobileHelp",
+                "utt": "\"@703891 Hey there Edward, meet me back in a DM, let us talk! *KiaWashington\"",
+                "time": "Wed Nov 15 12:59:33 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 649847,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "2487723",
+                "speaker": "710507",
+                "utt": "Why am I even with @115911 the service is mediocre and I pay the same as if I was on @115725 bye T",
+                "time": "Wed Nov 15 16:10:23 +0000 2017"
+            },
+            {
+                "tweet_id": "2487722",
+                "speaker": "TMobileHelp",
+                "utt": "\"@710507 do not say good bye to the magenta family. Come on back. Send us a message DM and let us take a closer look for you. *JeremyJ\"",
+                "time": "Wed Nov 15 16:14:19 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 652047,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "2495526",
+                "speaker": "712225",
+                "utt": "@115911 is really on some other shit I pay insurance every month and they saying I cannot make a claim for a new device",
+                "time": "Mon Oct 30 01:10:52 +0000 2017"
+            },
+            {
+                "tweet_id": "2495524",
+                "speaker": "TMobileHelp",
+                "utt": "@712225 Hey Griselda! We want to be able to look more into this for you. message DM us. *DayoG",
+                "time": "Mon Oct 30 01:13:04 +0000 2017"
+            },
+            {
+                "tweet_id": "2495525",
+                "speaker": "712225",
+                "utt": "@TMobileHelp message Dm you?! I was just on the phone for 2 hours no help at all all you offered was to pay my last device fee of 18$ foh!",
+                "time": "Mon Oct 30 01:15:40 +0000 2017"
+            },
+            {
+                "tweet_id": "2495527",
+                "speaker": "TMobileHelp",
+                "utt": "@712225 The wait is over! Just shoot me a message DM so we can take a look at our options! I got you! *DonHebron",
+                "time": "Mon Oct 30 01:20:21 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 663239,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "2534108",
+                "speaker": "721075",
+                "utt": "@Ask_Spectrum is there an outage in Cobble Hill, Brooklyn?",
+                "time": "Thu Nov 16 05:48:49 +0000 2017"
+            },
+            {
+                "tweet_id": "2534107",
+                "speaker": "Ask_Spectrum",
+                "utt": "@721075 Hi Lauren! I would really like to help with your services. When you can plz message DM your phone number and address to chat?",
+                "time": "Thu Nov 16 07:21:34 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 666017,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "2544406",
+                "speaker": "708597",
+                "utt": "So @115913 said digits was free, so I signed up... Guess what I see on my bill today. Disgusting false promo!",
+                "time": "Thu Nov 16 13:12:58 +0000 2017"
+            },
+            {
+                "tweet_id": "2544405",
+                "speaker": "TMobileHelp",
+                "utt": "\"@708597 @115913 We want to make sure your bill and plan is correct. I will meet you back in message DM now. *CassyFitzgerald\"",
+                "time": "Thu Nov 16 13:17:10 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 689937,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "2628111",
+                "speaker": "742270",
+                "utt": "@TMobileHelp Do existing customers for over 10 years get Netflix free also?",
+                "time": "Fri Nov 17 16:40:55 +0000 2017"
+            },
+            {
+                "tweet_id": "2628109",
+                "speaker": "TMobileHelp",
+                "utt": "@742270 Hey hey, Daren!!! #NetflixOnUs is the bomb! Shoot me a message DM so we can check out your plan, I want my loyal family getting all the deals they can! *DJConstable",
+                "time": "Fri Nov 17 16:58:42 +0000 2017"
+            },
+            {
+                "tweet_id": "2628110",
+                "speaker": "742270",
+                "utt": "@TMobileHelp Just sent you a message DM",
+                "time": "Wed Nov 29 16:20:19 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 695520,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "2646519",
+                "speaker": "340608",
+                "utt": "@TMobileHelp Been on xferred 4 times, on hold again, been on the line 40 mins trying to cancel out this account. Keep getting transferred to representatives, none of whom can help me.",
+                "time": "Fri Nov 17 22:27:05 +0000 2017"
+            },
+            {
+                "tweet_id": "2646518",
+                "speaker": "TMobileHelp",
+                "utt": "\"@340608 that is so many holds! Here on twitter and DM, there is no hold on the phone. Send us a message DM and let us go over the playlist for the account, Mark! *MikeVance\"",
+                "time": "Fri Nov 17 22:33:55 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 704470,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "2678214",
+                "speaker": "463419",
+                "utt": "@117890 is there an internet outage in Midtown Manhattan?",
+                "time": "Tue Oct 31 13:59:16 +0000 2017"
+            },
+            {
+                "tweet_id": "2678213",
+                "speaker": "Ask_Spectrum",
+                "utt": "@463419 We can certainly look into any service issues you are having, can you please message DM me your acct/ph # and address?",
+                "time": "Tue Oct 31 14:40:28 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 707571,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "2688902",
+                "speaker": "756014",
+                "utt": "So no one at @115714 knows if my order for a phone is ready for pick up or nah like dude come on brah",
+                "time": "Sun Nov 19 14:00:38 +0000 2017"
+            },
+            {
+                "tweet_id": "2688901",
+                "speaker": "sprintcare",
+                "utt": "@756014 Have you checked with the order number at JA",
+                "time": "Sun Nov 19 15:21:52 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 720624,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "2734902",
+                "speaker": "157326",
+                "utt": "@TMobileHelp is there any iphone deals?, that does not include getting a gifted one",
+                "time": "Mon Nov 20 19:43:43 +0000 2017"
+            },
+            {
+                "tweet_id": "2734900",
+                "speaker": "TMobileHelp",
+                "utt": "@157326 Here are all the deals we have available right now just in time for the holidays! *Bridget Wren",
+                "time": "Mon Nov 20 19:48:33 +0000 2017"
+            },
+            {
+                "tweet_id": "2734901",
+                "speaker": "157326",
+                "utt": "@TMobileHelp will there be a release of another set of deals the day of thanksgiving?",
+                "time": "Mon Nov 20 19:49:30 +0000 2017"
+            },
+            {
+                "tweet_id": "2734903",
+                "speaker": "TMobileHelp",
+                "utt": "\"@157326 I cannot comment on specific release dates for new promotions, but keep your eyes peeled! *Bridget Wren\"",
+                "time": "Mon Nov 20 20:01:45 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 726728,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "2755417",
+                "speaker": "771226",
+                "utt": "WHY IS MY INTERNET DOWN THE DAY BEFORE MY EXAM, @115955???????",
+                "time": "Mon Nov 20 21:13:09 +0000 2017"
+            },
+            {
+                "tweet_id": "2755416",
+                "speaker": "Ask_Spectrum",
+                "utt": "@771226 Hello there! Thanks for reaching out I would love to help with any service issues. Would you be able to send us a message DM please with the address and phone number of the account? AV",
+                "time": "Mon Nov 20 21:15:52 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 731669,
+        "company": "sprintcare",
+        "turns": [
+            {
+                "tweet_id": "2772555",
+                "speaker": "774948",
+                "utt": "@115714 when do you guys plan on improving your internet signal in south Florida? Cause at this point Im burning money by paying for my monthly bill since my internet is as shitty as it gets..",
+                "time": "Tue Nov 21 13:46:43 +0000 2017"
+            },
+            {
+                "tweet_id": "2772554",
+                "speaker": "sprintcare",
+                "utt": "@774948 Thanks for stopping by. Please send us a Direct Message, so that we can further assist you. JM",
+                "time": "Tue Nov 21 13:57:40 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 735064,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "2784902",
+                "speaker": "175252",
+                "utt": "@TMobileHelp is there a way I can provide feedback on one of your customer service people that helped me in store? This guy went above and beyond and helped me when another store told me they couldnt &amp; he deserves good feedback.",
+                "time": "Tue Nov 21 17:57:06 +0000 2017"
+            },
+            {
+                "tweet_id": "2784901",
+                "speaker": "TMobileHelp",
+                "utt": "\"@175252 Thank you so much for the #ShoutOut! I would love to hear about it! *KiaWashington\"",
+                "time": "Tue Nov 21 17:58:52 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 741364,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "2805740",
+                "speaker": "245614",
+                "utt": "@Ask_Spectrum I just feel like tweeting this pic for a 3rd time today. I am done now. Good luck with Spectrum, triad!",
+                "time": "Wed Nov 22 02:41:59 +0000 2017"
+            },
+            {
+                "tweet_id": "2805734",
+                "speaker": "Ask_Spectrum",
+                "utt": "@245614 I do apologize for the inconvenience and I will be happy to help. Can you message DM me your account number?",
+                "time": "Wed Nov 22 02:44:07 +0000 2017"
+            },
+            {
+                "tweet_id": "2805735",
+                "speaker": "245614",
+                "utt": "\"@Ask_Spectrum If you want to help, just pass the word along. But I am sure they already know. Thanks anyway.\"",
+                "time": "Wed Nov 22 03:11:06 +0000 2017"
+            },
+            {
+                "tweet_id": "2805732",
+                "speaker": "Ask_Spectrum",
+                "utt": "@245614 I can definitely take a look and remedy the issue. I would just need your account information if you can message DM that to me.",
+                "time": "Wed Nov 22 03:01:01 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 742718,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "2810002",
+                "speaker": "783662",
+                "utt": "POTENTIAL BUYERS BEWARE, CRIMINAL ACTIVITY AT THIS T @115911 I do not even know where to begin... The sales associat",
+                "time": "Wed Nov 22 06:05:38 +0000 2017"
+            },
+            {
+                "tweet_id": "2810000",
+                "speaker": "TMobileHelp",
+                "utt": "\"@783662 Hey Ronald, we are so sorry for this experience. Please let your gf know she can reach out to us here on Twitter or our FB page and we will do everything we can to make this right. *ChanneyT\"",
+                "time": "Wed Nov 22 06:08:54 +0000 2017"
+            },
+            {
+                "tweet_id": "2810001",
+                "speaker": "783662",
+                "utt": "@TMobileHelp Thanks ChanneyT, I will post my review on your FB page and mention the location where it occurred.",
+                "time": "Wed Nov 22 06:11:44 +0000 2017"
+            },
+            {
+                "tweet_id": "2810003",
+                "speaker": "TMobileHelp",
+                "utt": "@783662 Thanks so much for reaching out to us! message DM me here if you need info on how she can reach out to us :) *DebiChavarria",
+                "time": "Wed Nov 22 07:15:17 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 743224,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "2811594",
+                "speaker": "265214",
+                "utt": "@Ask_Spectrum Will Spectrum offices be open on the Friday after Thanksgiving? My corrected bill never showed up so i have to go pay it in person.",
+                "time": "Wed Nov 22 07:57:12 +0000 2017"
+            },
+            {
+                "tweet_id": "2811593",
+                "speaker": "Ask_Spectrum",
+                "utt": "@265214 Hello, the offices should be open on Friday. They will definitely be closed Thursday though.",
+                "time": "Wed Nov 22 08:00:53 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 743623,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "2812834",
+                "speaker": "784310",
+                "utt": "@115955 get your shit together, all of your employees keep telling me there is no outage when I know a lot of people who cant connect to the internet either. Just as terrible as Time Warner was.",
+                "time": "Mon Nov 27 01:28:02 +0000 2017"
+            },
+            {
+                "tweet_id": "2812833",
+                "speaker": "Ask_Spectrum",
+                "utt": "@784310 Hello. I apologize for the service interruption and I would like to check on this for you. Please send the phone number associated with your account in a message DM for further assistance.",
+                "time": "Mon Nov 27 01:37:50 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 744206,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "2814904",
+                "speaker": "784774",
+                "utt": "@259153 @115955 @Ask_Spectrum another terrible night of service from Time warner / spectrum. Hard enough maintaining interest in this show......",
+                "time": "Mon Nov 27 02:23:20 +0000 2017"
+            },
+            {
+                "tweet_id": "2814903",
+                "speaker": "Ask_Spectrum",
+                "utt": "@784774 Good evening! I would really like to help with your Cable TV services. When you can plz message DM your phone number and address to chat?",
+                "time": "Mon Nov 27 02:29:08 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 755483,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "2855659",
+                "speaker": "128156",
+                "utt": "@Ask_Spectrum Why am I told my monthly bill on seasonal service will be $14.99, and I get a confirmation email \"welcoming\" me to $23.40 seasonal service. Spectrum sucks. Quote the actual amount with fees &amp; taxes when you are asked what the monthly charge will be.",
+                "time": "Mon Nov 27 20:38:51 +0000 2017"
+            },
+            {
+                "tweet_id": "2855657",
+                "speaker": "Ask_Spectrum",
+                "utt": "@128156 We would be more than willing to take a closer look here into getting any billing concerns or questions addressed here. Can I start with the acct/ph # by DM?",
+                "time": "Mon Nov 27 20:49:24 +0000 2017"
+            },
+            {
+                "tweet_id": "2855658",
+                "speaker": "128156",
+                "utt": "\"@Ask_Spectrum I do not think a closer look will help. it is the practice of misleading customers that is my concern. I might have turned in my equipment, instead of doing seasonal, had I been told the true cost per month.\"",
+                "time": "Tue Nov 28 23:36:10 +0000 2017"
+            },
+            {
+                "tweet_id": "2855660",
+                "speaker": "Ask_Spectrum",
+                "utt": "@128156 Refused Assistance: \\nIf you change your mind and wish to have us look into this further, were standing by for that information, 24/7.",
+                "time": "Tue Nov 28 23:37:09 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 762579,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "2880715",
+                "speaker": "799387",
+                "utt": "@Ask_Spectrum My Internet is down right now. Can you confirm an outage in my area? CA 91020",
+                "time": "Tue Nov 28 08:20:20 +0000 2017"
+            },
+            {
+                "tweet_id": "2880714",
+                "speaker": "Ask_Spectrum",
+                "utt": "@799387 I apologize for the issues you are having with the services. I will need the account holders name and service address to review this. Can you send this information in a private message? I will do my best for you from here.",
+                "time": "Tue Nov 28 08:43:46 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 775476,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "2925208",
+                "speaker": "259047",
+                "utt": "@Ask_Spectrum I work from home and cannot afford to wait until 2NOV for a lineman to come to look at a non issue. what is up?",
+                "time": "Tue Oct 31 19:20:47 +0000 2017"
+            },
+            {
+                "tweet_id": "2925207",
+                "speaker": "Ask_Spectrum",
+                "utt": "@259047 I apologize for the service issues. Please message DM us your account number or phone number so we can assist you.",
+                "time": "Tue Oct 31 19:31:10 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 776420,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "2928294",
+                "speaker": "175990",
+                "utt": "@115913 i traveled last time with my Tmobile but the speed was very slow and support only up to 3G. can i get faster internet internationally please ?",
+                "time": "Wed Nov 29 05:01:43 +0000 2017"
+            },
+            {
+                "tweet_id": "2928292",
+                "speaker": "TMobileHelp",
+                "utt": "\"@175990 @115913 Thank you for reaching out and for your patience. Having the data you need overseas is important and I want to make sure you are covered. I will meet you in message DM to go over details. *CarmenSipes\"",
+                "time": "Wed Nov 29 05:28:37 +0000 2017"
+            },
+            {
+                "tweet_id": "2928293",
+                "speaker": "175990",
+                "utt": "@TMobileHelp @115913 I am waiting you",
+                "time": "Wed Nov 29 05:29:14 +0000 2017"
+            },
+            {
+                "tweet_id": "2928295",
+                "speaker": "TMobileHelp",
+                "utt": "\"@175990 @115913 Thanks for waiting. I sent you a message DM and I look forward to your reply. let us get you hooked up. *CarmenSipes\"",
+                "time": "Wed Nov 29 05:31:04 +0000 2017"
+            },
+            {
+                "tweet_id": "2928296",
+                "speaker": "175990",
+                "utt": "@TMobileHelp @115913",
+                "time": "Wed Nov 29 05:41:02 +0000 2017"
+            },
+            {
+                "tweet_id": "2928298",
+                "speaker": "TMobileHelp",
+                "utt": "\"@175990 @115913 Thank you for staying engaged with us. I see your message DM and I am responding back to you there now. *JennaLundh\"",
+                "time": "Wed Nov 29 05:45:11 +0000 2017"
+            },
+            {
+                "tweet_id": "2928299",
+                "speaker": "175990",
+                "utt": "@TMobileHelp @115913 I am waiting for your response",
+                "time": "Wed Nov 29 05:48:03 +0000 2017"
+            },
+            {
+                "tweet_id": "2928300",
+                "speaker": "TMobileHelp",
+                "utt": "@175990 @115913 We just sent you a message DM and look forward to hearing back from you. *JennaLundh",
+                "time": "Wed Nov 29 05:52:45 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 782909,
+        "company": "ATT",
+        "turns": [
+            {
+                "tweet_id": "2951323",
+                "speaker": "486202",
+                "utt": "wow, @ATT I cannot believe you are willing to lose a customer of a $35 fee.",
+                "time": "Sat Nov 25 13:58:44 +0000 2017"
+            },
+            {
+                "tweet_id": "2951322",
+                "speaker": "ATT",
+                "utt": "@486202 Hello Mary, I am sorry for the delay, I need to bother you with some information so please follow us and then I will be able to help you as soon as possible. thank you. JuanH Social Media Specialist",
+                "time": "Wed Nov 29 16:58:40 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 784708,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "2957566",
+                "speaker": "316457",
+                "utt": "@Ask_Spectrum raised my rates to more than double what it was under @30573. No way to lower my bill per support rep, just offered to send to \"specialist\" to disconnect service. Glad they have specialists for getting rid of customers! Time to switch to @126768 I guess",
+                "time": "Wed Nov 29 19:37:31 +0000 2017"
+            },
+            {
+                "tweet_id": "2957564",
+                "speaker": "Ask_Spectrum",
+                "utt": "@316457 I apologize for any issues with pricing Phil. Please call in and speak with customer service for assistance with pricing.",
+                "time": "Wed Nov 29 19:38:40 +0000 2017"
+            },
+            {
+                "tweet_id": "2957565",
+                "speaker": "316457",
+                "utt": "@Ask_Spectrum I did. He was friendly enough, but also entirely unhelpful.",
+                "time": "Wed Nov 29 19:39:51 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 787677,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "2967507",
+                "speaker": "818631",
+                "utt": "@115911 look at the speed at 91744 since last 2 years same no charges at all.",
+                "time": "Wed Nov 29 23:22:34 +0000 2017"
+            },
+            {
+                "tweet_id": "2967506",
+                "speaker": "TMobileHelp",
+                "utt": "@818631 I know you want to have those data speeds trending upward, and we can certainly check into this for you and help make this happen. Shoot us a DM, so we can dig into this for you. *JPL",
+                "time": "Wed Nov 29 23:24:26 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 790379,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "2976009",
+                "speaker": "820761",
+                "utt": "@Ask_Spectrum Where can I find information on exactly what level of service I am paying for? we have had Charter for years and I do not recall. I do not see it on my bill or any other screens online that I can find. TIA.",
+                "time": "Thu Nov 30 02:22:06 +0000 2017"
+            },
+            {
+                "tweet_id": "2976008",
+                "speaker": "Ask_Spectrum",
+                "utt": "@820761 Billing information can be located at including a PDF version of your most recent bills.",
+                "time": "Thu Nov 30 03:09:25 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 790804,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "2977234",
+                "speaker": "821088",
+                "utt": "IM SO SICK OF @115911 !!!My phone has been saying NO SERVICE ALL DAY SINCE 6AM !!! Imagine how many calls &amp; txts Ive missed today with no damn service !!!! sick of it !!!! In case of an emergency who tf can I call with no service it wouldnt even let me dial 911 !!!!!!",
+                "time": "Thu Nov 30 03:03:59 +0000 2017"
+            },
+            {
+                "tweet_id": "2977233",
+                "speaker": "TMobileHelp",
+                "utt": "@821088 We take your mobile experience very seriously, especially when it comes to keeping you connected. My device is my primary connection to the world and I know the importance of a strong signal. Come on over to message DM and let us check this out for you. *JeremyJ",
+                "time": "Thu Nov 30 03:07:33 +0000 2017"
+            },
+            {
+                "tweet_id": "2977232",
+                "speaker": "821088",
+                "utt": "@TMobileHelp Just sent message dm",
+                "time": "Thu Nov 30 03:14:53 +0000 2017"
+            },
+            {
+                "tweet_id": "2977231",
+                "speaker": "TMobileHelp",
+                "utt": "\"@821088 I just responded to your message DM and thank you so much for your patience. I will see you back there shortly! *AustinWebb\"",
+                "time": "Thu Nov 30 03:26:54 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 790953,
+        "company": "Ask_Spectrum",
+        "turns": [
+            {
+                "tweet_id": "2977619",
+                "speaker": "560145",
+                "utt": "Woohoo! Streaming with @115955 is FUN!",
+                "time": "Fri Nov 17 04:40:44 +0000 2017"
+            },
+            {
+                "tweet_id": "2977618",
+                "speaker": "Ask_Spectrum",
+                "utt": "@560145 I am sorry you are having issues with your internet. You can find helpful troubleshooting tips here . If your need further assistance please feel free to send your phone number, account number and service address to me directly in a private message.",
+                "time": "Fri Nov 17 05:04:00 +0000 2017"
+            }
+        ]
+    },
+    {
+        "dialogue": 791740,
+        "company": "TMobileHelp",
+        "turns": [
+            {
+                "tweet_id": "2979949",
+                "speaker": "821838",
+                "utt": "@115911 do I have to be the primary on Verizon when switching to T to have T pay for my devices that I still owe on with Comcast? Everyone that was on Verizon is now with T but my FIL was primary account holder on Verizon while Im primary on T",
+                "time": "Thu Nov 30 04:04:41 +0000 2017"
+            },
+            {
+                "tweet_id": "2979948",
+                "speaker": "TMobileHelp",
+                "utt": "@821838 Hey Jeanyus, can you send us a message DM so we can see what your options are for coming over :) *ChanneyT",
+                "time": "Thu Nov 30 04:05:58 +0000 2017"
+            }
+        ]
+    }
+]
